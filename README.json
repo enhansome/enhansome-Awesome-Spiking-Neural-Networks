@@ -1,0 +1,395 @@
+{
+  "items": [
+    {
+      "description": "[2026.03.24] Update SNN-related papers in AAAI 2026 (33 papers), ICLR 2026 (30 papers).\n[2025.11.01] Update SNN-related papers in Nature, Science 2025 (11 papers).\n[2025.10.31] Update SNN-related papers in Neurips 2025 (30 papers).\n[2025.05.26] Update SNN-related papers in ICML 2025 (18 papers), IJCAI (11 papers), ICCV (7 papers), and ACM MM (9 papers).\n[2025.04.11] Update SNN-related papers in ICLR 2025 (11 papers), CVPR 2025 (14 papers).\n[2025.02.06] Update SNN-related papers in AAAI 2025 (18 papers).\n[2024.11.13] Update SNN-related papers in NeurIPS 2024 (18 papers).\n[2024.10.31] Update SNN-related papers in ACM MM 2024 (5 papers).\n[2024.10.15] Update SNN-related papers in ECCV 2024 (8 papers).\n[2024.05.29] Update SNN-related papers in ICML 2024 (13 papers), IJCAI 2024 (5).\n[2024.04.29] Update SNN-related papers in ICLR 2024 (17 papers), AAAI 2024 (8), CVPR 2024 (3).\n[2023.12.31] Update SNN-related papers in TPAMI 2023, Frontiers in Neuroscience 2023.\n[2023.10.31] Update SNN-related papers in CVPR 2023 (2 papers), ICML 2023 (2), IJCAI 2023 (3), and ICCV 2023 (10), NeurIPS 2023 (12).\n[2023.06.25] Update SNN-related papers in ICLR 2023 (6 papers), AAAI 2023 (6 papers).",
+      "items": [],
+      "title": "News"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Papers"
+    },
+    {
+      "description": "Nature, Science, Cell",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "A multisynaptic spiking neuron for simultaneously encoding spatial and temporal dynamics in spiking neural networks (Nature Communications, 2025). [paper",
+          "description": "][code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-08-12T14:04:23Z",
+            "owner": "fanliangwei",
+            "repo": "Multisynaptic-spiking-neurons",
+            "stars": 38
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Advancing spatio-temporal processing through adaptation in spiking neural networks (Nature Communications, 2025). [paper",
+          "description": "][code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-05-08T12:19:11Z",
+            "owner": "IGITUGraz",
+            "repo": "SE-adlif",
+            "stars": 21
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Efficient and robust temporal processing with neural oscillations modulated spiking neural networks (Nature Communications, 2025). [paper",
+          "description": "][code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-07-08T07:16:39Z",
+            "owner": "YinsongYan",
+            "repo": "Rhythm-SNN",
+            "stars": 16
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Covariant spatio-temporal receptive fields for spiking neural networks (Nature Communications, 2025). [paper",
+          "description": "][code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-11-05T12:17:07Z",
+            "owner": "Jegp",
+            "repo": "nrf",
+            "stars": 10
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Neuromorphic computing paradigms enhance robustness through spiking neural networks (Nature Communications, 2025). [paper",
+          "description": "][code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-09-02T09:33:51Z",
+            "owner": "DingJianhao",
+            "repo": "SNNEnhancingRobustness",
+            "stars": 7
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Topology optimization of random memristors for input-aware dynamic SNN (Science Advances, 2025). [paper",
+          "description": "][code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-06-30T03:22:52Z",
+            "owner": "bo-wang-up",
+            "repo": "PRIME",
+            "stars": 5
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "A spiking artificial neuron based on one diffusive memristor, one transistor and one resistor (Nature Electronics, 2025). [paper",
+          "description": "][code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "MATLAB",
+            "last_commit": "2025-09-12T08:14:46Z",
+            "owner": "GnohzZ",
+            "repo": "Brain-Dynamics-Modeling-Acceleration",
+            "stars": 1
+          }
+        }
+      ],
+      "title": "2025"
+    },
+    {
+      "description": "NeurIPS, CVPR, ICLR, AAAI, ICML, Nature Communications",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Spiking Graph Convolutional Networks [paper",
+          "description": "] [code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Jupyter Notebook",
+            "last_commit": "2022-09-16T11:04:36Z",
+            "owner": "ZulunZhu",
+            "repo": "SpikingGCN",
+            "stars": 86
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Neural Architecture Search for Spiking Neural Networks [paper",
+          "description": "] [code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2022-07-19T20:42:49Z",
+            "owner": "Intelligent-Computing-Lab-Panda",
+            "repo": "Neural-Architecture-Search-for-Spiking-Neural-Networks",
+            "stars": 75
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Online Training Through Time for Spiking Neural Networks (NeurIPS 2022). [paper",
+          "description": "] [code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2023-12-08T08:49:48Z",
+            "owner": "pkuxmq",
+            "repo": "OTTT-SNN",
+            "stars": 69
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Optimal ANN-SNN Conversion for High-accuracy and Ultra-low-latency Spiking Neural Networks [paper",
+          "description": "] [code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2023-08-31T05:08:41Z",
+            "owner": "putshua",
+            "repo": "SNN_conversion_QCFS",
+            "stars": 63
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Event-based Video Reconstruction via Potential-assisted Spiking Neural Network [paper",
+          "description": "] [code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2022-04-03T13:02:16Z",
+            "owner": "LinZhu111",
+            "repo": "EVSNN",
+            "stars": 55
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "GLIF: A Unified Gated Leaky Integrate-and-Fire Neuron for Spiking Neural Networks [paper",
+          "description": "] [code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2023-02-18T09:12:09Z",
+            "owner": "CAS-CLab",
+            "repo": "Gated-LIF",
+            "stars": 54
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Training High-Performance Low-Latency Spiking Neural Networks by Differentiation on Spike Representation [paper",
+          "description": "] [code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2022-11-08T01:44:45Z",
+            "owner": "qymeng94",
+            "repo": "DSR",
+            "stars": 52
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Neuromorphic Data Augmentation for Training Spiking Neural Networks [paper",
+          "description": "] [code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2022-12-12T15:17:15Z",
+            "owner": "Intelligent-Computing-Lab-Panda",
+            "repo": "NDA_SNN",
+            "stars": 44
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Exploring Lottery Ticket Hypothesis in Spiking Neural Networks [paper",
+          "description": "] [code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2022-07-18T15:47:51Z",
+            "owner": "Intelligent-Computing-Lab-Panda",
+            "repo": "Exploring-Lottery-Ticket-Hypothesis-in-SNNs",
+            "stars": 36
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Optimal Conversion of Conventional Artificial Neural Networks to Spiking Neural Networks (ICLR 2022). [paper",
+          "description": "] [code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2021-12-03T04:23:41Z",
+            "owner": "Jackn0",
+            "repo": "snn_optimal_conversion_pipeline",
+            "stars": 35
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Training Spiking Neural Networks with Event-driven Backpropagation [paper",
+          "description": "] [code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-05-15T09:39:45Z",
+            "owner": "zhuyaoyu",
+            "repo": "SNN-event-driven-learning",
+            "stars": 28
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "A calibratable sensory neuron based on epitaxial VO2 for spike-based neuromorphic multisensory system [paper",
+          "description": "] [code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2022-05-11T02:00:21Z",
+            "owner": "billyuanpku96",
+            "repo": "SNN-for-sensory-neuron",
+            "stars": 15
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "State Transition of Dendritic Spines Improves Learning of Sparse Spiking Neural Networks [paper",
+          "description": "] [code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2022-07-26T03:53:24Z",
+            "owner": "Yanqi-Chen",
+            "repo": "STDS",
+            "stars": 7
+          }
+        }
+      ],
+      "title": "2022"
+    },
+    {
+      "description": "NeurIPS, ICCV, IJCAI, ICML, AAAI",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Deep Residual Learning in Spiking Neural Networks (NeurIPS 2021). [paper",
+          "description": "] [code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2022-08-09T02:55:18Z",
+            "owner": "fangwei123456",
+            "repo": "Spike-Element-Wise-ResNet",
+            "stars": 196
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Incorporating Learnable Membrane Time Constant to Enhance Learning of Spiking Neural Networks (ECCV 2021). [paper",
+          "description": "] [code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2022-08-09T03:31:50Z",
+            "owner": "fangwei123456",
+            "repo": "Parametric-Leaky-Integrate-and-Fire-Spiking-Neuron",
+            "stars": 123
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "A Free Lunch From ANN: Towards Efficient, Accurate Spiking Neural Networks Calibration (ICML 2021). [paper",
+          "description": "] [code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-05-09T01:04:04Z",
+            "owner": "yhhhli",
+            "repo": "SNN_Calibration",
+            "stars": 92
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Pruning of Deep Spiking Neural Networks through Gradient Rewiring [paper",
+          "description": "] [code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2021-08-18T07:23:30Z",
+            "owner": "Yanqi-Chen",
+            "repo": "Gradient-Rewiring",
+            "stars": 32
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Optimal ANN-SNN Conversion for Fast and Accurate Inference in Deep Spiking Neural Networks [paper",
+          "description": "] [code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2023-10-20T21:43:54Z",
+            "owner": "DingJianhao",
+            "repo": "OptSNNConvertion-RNL-RIL",
+            "stars": 31
+          }
+        }
+      ],
+      "title": "2021"
+    },
+    {
+      "description": "If you find this repo useful, please consider citing:",
+      "items": [],
+      "title": "Reference"
+    }
+  ],
+  "metadata": {
+    "last_updated": "2026-08-13T04:30:35.894Z",
+    "original_repository": "TheBrainLab/Awesome-Spiking-Neural-Networks",
+    "original_repository_sha": "7c4bff676d28ba00ee010f8a11aeedd698b10248",
+    "enhanced_repository": "enhansome/enhansome-Awesome-Spiking-Neural-Networks",
+    "enhanced_repository_description": null,
+    "title": "Awesome Spiking Neural Networks with stars"
+  }
+}
