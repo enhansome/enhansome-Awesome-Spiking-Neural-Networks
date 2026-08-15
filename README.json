@@ -330,7 +330,7 @@
             "last_commit": "2022-08-09T03:31:50Z",
             "owner": "fangwei123456",
             "repo": "Parametric-Leaky-Integrate-and-Fire-Spiking-Neuron",
-            "stars": 123
+            "stars": 124
           }
         },
         {
@@ -385,7 +385,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-14T06:56:18.671Z",
+    "last_updated": "2026-08-15T05:54:06.902Z",
     "original_repository": "TheBrainLab/Awesome-Spiking-Neural-Networks",
     "original_repository_sha": "7c4bff676d28ba00ee010f8a11aeedd698b10248",
     "enhanced_repository": "enhansome/enhansome-Awesome-Spiking-Neural-Networks",
