@@ -156,7 +156,7 @@
             "last_commit": "2023-12-08T08:49:48Z",
             "owner": "pkuxmq",
             "repo": "OTTT-SNN",
-            "stars": 69
+            "stars": 70
           }
         },
         {
@@ -385,7 +385,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-16T05:56:50.660Z",
+    "last_updated": "2026-08-17T06:02:59.880Z",
     "original_repository": "TheBrainLab/Awesome-Spiking-Neural-Networks",
     "original_repository_sha": "7c4bff676d28ba00ee010f8a11aeedd698b10248",
     "enhanced_repository": "enhansome/enhansome-Awesome-Spiking-Neural-Networks",
