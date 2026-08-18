@@ -316,7 +316,7 @@
             "last_commit": "2022-08-09T02:55:18Z",
             "owner": "fangwei123456",
             "repo": "Spike-Element-Wise-ResNet",
-            "stars": 197
+            "stars": 198
           }
         },
         {
@@ -385,7 +385,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-17T06:02:59.880Z",
+    "last_updated": "2026-08-18T05:57:33.625Z",
     "original_repository": "TheBrainLab/Awesome-Spiking-Neural-Networks",
     "original_repository_sha": "7c4bff676d28ba00ee010f8a11aeedd698b10248",
     "enhanced_repository": "enhansome/enhansome-Awesome-Spiking-Neural-Networks",

@@ -151,7 +151,7 @@ If you own or find some overlooked SNN papers, you can add them to this document
 
 **AAAI, ICLR, CVPR, ICML, IJCAI, ICCV, ACM MM, Neurips**
 
-* EventGPT: Event Stream Understanding with Multimodal Large Language Models (**CVPR 2025**). \[[paper](https://arxiv.org/pdf/2412.00832)]  \[[code](https://github.com/XduSyL/EventGPT) ⭐ 113 | 🐛 16 | 🌐 Python | 📅 2025-07-26]
+* EventGPT: Event Stream Understanding with Multimodal Large Language Models (**CVPR 2025**). \[[paper](https://arxiv.org/pdf/2412.00832)]  \[[code](https://github.com/XduSyL/EventGPT) ⭐ 114 | 🐛 16 | 🌐 Python | 📅 2025-07-26]
 * Toward Relative Positional Encoding in Spiking Transformers (**Neurips 2025**). \[[paper](https://openreview.net/pdf?id=MDWJlTWZHH)] \[[code](https://github.com/microsoft/SeqSNN) ⭐ 91 | 🐛 12 | 🌐 Python | 📅 2026-02-08]
 * Brain-like Variational Inference (**Neurips 2025**). \[[paper](https://openreview.net/pdf?id=573IcLusXq)] \[[code](https://github.com/hadivafaii/IterativeVAE) ⭐ 72 | 🐛 0 | 🌐 Jupyter Notebook | 📅 2026-02-09]
 * Spiking Neural Networks Need High-Frequency Information (**Neurips 2025**). \[[paper](https://openreview.net/pdf?id=owNPAl7LNK)] \[[code](https://github.com/bic-L/MaxFormer) ⭐ 64 | 🐛 0 | 🌐 Python | 📅 2026-01-19]
@@ -166,12 +166,12 @@ If you own or find some overlooked SNN papers, you can add them to this document
 * Toward End-to-End Bearing Fault Diagnosis for Industrial Scenarios with Spiking Neural Networks (**KDD 2025**). \[[paper](https://doi.org/10.48550/arXiv.2408.11067)]\[[code](https://github.com/yqding326/MRA-SNN) ⭐ 11 | 🐛 1 | 🌐 Python | 📅 2026-01-08]
 * CREST: An Efficient Conjointly-trained Spike-driven Framework for Event-based Object Detection Exploiting Spatiotemporal Dynamics  (**AAAI 2025**).\[[paper](https://arxiv.org/pdf/2412.12525)] \[[code](https://github.com/shen-aoyu/CREST/) ⭐ 10 | 🐛 0 | 🌐 Python | 📅 2025-02-10]
 * Adaptive Surrogate Gradients for Sequential Reinforcement Learning in Spiking Neural Networks (**Neurips 2025**). \[[paper](https://openreview.net/pdf?id=oGmROC4e4W)] \[[code](https://github.com/korneelf1/SpikingCrazyflie) ⭐ 7 | 🐛 0 | 🌐 Python | 📅 2025-10-28]
-* Activity Pruning for Efficient Spiking Neural Networks (**Neurips 2025**). \[[paper](https://openreview.net/pdf?id=zjOXZEXQKZ)] \[[code](https://github.com/putshua/Activity-Pruning-SNN) ⭐ 7 | 🐛 3 | 🌐 Python | 📅 2025-11-07]
 * S$^2$M-Former: Spiking Symmetric Mixing Branchformer for Brain Auditory Attention Detection (**Neurips 2025**). \[[paper](https://openreview.net/pdf?id=WtMuGdHvh6)] \[[code](https://github.com/JackieWang9811/S2M-Former) ⭐ 7 | 🐛 1 | 🌐 Python | 📅 2026-05-06]
 * HetSyn: Versatile Timescale Integration in Spiking Neural Networks via Heterogeneous Synapses (**Neurips 2025**). \[[paper](https://openreview.net/pdf?id=YYz4fumVed)] \[[code](https://github.com/dzcgood/HetSyn) ⭐ 7 | 🐛 0 | 🌐 Python | 📅 2025-10-28]
+* Activity Pruning for Efficient Spiking Neural Networks (**Neurips 2025**). \[[paper](https://openreview.net/pdf?id=zjOXZEXQKZ)] \[[code](https://github.com/putshua/Activity-Pruning-SNN) ⭐ 6 | 🐛 3 | 🌐 Python | 📅 2025-11-07]
 * SPACE: SPike-Aware Consistency Enhancement for Test-Time Adaptation in Spiking Neural Networks (**Neurips 2025**). \[[paper](https://openreview.net/pdf?id=Di0RasgbQ6)] \[[code](https://github.com/ethanxyluo/SPACE) ⭐ 5 | 🐛 3 | 🌐 Python | 📅 2025-09-20]
-* MI-TRQR: Mutual Information-Based Temporal Redundancy Quantification and Reduction for Energy-Efficient Spiking Neural Networks (**Neurips  2025**). \[[paper](https://openreview.net/pdf?id=NRqGpUAjV9)] \[[code](https://github.com/dfxue/MI-TRQR) ⭐ 5 | 🐛 1 | 🌐 Python | 📅 2025-11-07]
 * Adaptive Fission: Post-training Encoding for Low-latency Spike Neural Networks (**Neurips 2025**). \[[paper](https://openreview.net/pdf?id=2zZzdAMyYi)] \[[code](https://github.com/JiangYizhou16/Adaptive-Fission) ⭐ 5 | 🐛 1 | 📅 2025-09-28]
+* MI-TRQR: Mutual Information-Based Temporal Redundancy Quantification and Reduction for Energy-Efficient Spiking Neural Networks (**Neurips  2025**). \[[paper](https://openreview.net/pdf?id=NRqGpUAjV9)] \[[code](https://github.com/dfxue/MI-TRQR) ⭐ 4 | 🐛 1 | 🌐 Python | 📅 2025-11-07]
 * Multiplication-Free Parallelizable Spiking Neurons with Efficient Spatio-Temporal Dynamics (**Neurips 2025**). \[[paper](https://openreview.net/pdf?id=4q5ZYP0ynu)] \[[code](https://github.com/PengXue0812/Multiplication-Free-Parallelizable-Spiking-Neurons-with-Efficient-Spatio-Temporal-Dynamics) ⭐ 1 | 🐛 1 | 🌐 Python | 📅 2026-02-18]
 * Spike4DGS: Towards High-Speed Dynamic Scene Recontruction with 4D Gaussian Splatting via a Spike Camera Array (**Neurips 2025**). \[[paper](https://openreview.net/pdf?id=V5efEA8nIr)] \[[code](https://github.com/Qinghongye/Spike4DGS) ⭐ 1 | 🐛 1 | 🌐 HTML | 📅 2025-11-25]
 * High Dynamic Range Imaging with Time-Encoding Spike Camera (**Neurips 2025**). \[[paper](https://openreview.net/pdf?id=flIdch9eTf)] \[[code](https://github.com/zkzhu123/TESC) ⭐ 0 | 🐛 0 | 📅 2025-09-22]
@@ -288,7 +288,7 @@ If you own or find some overlooked SNN papers, you can add them to this document
 * SpikingResformer: Bridging ResNet and Vision Transformer in Spiking Neural Networks (**CVPR 2024**). \[[paper](https://arxiv.org/abs/2403.14302)] \[[code](https://github.com/xyshi2000/SpikingResformer) ⭐ 78 | 🐛 3 | 🌐 Python | 📅 2024-12-19]
 * Learning Delays in Spiking Neural Networks using Dilated Convolutions with Learnable Spacings (**ICLR 2024**). \[[paper](https://openreview.net/pdf?id=4r2ybzJnmN)] \[[code](https://github.com/Thvnvtos/SNN-delays) ⭐ 71 | 🐛 0 | 🌐 Python | 📅 2024-04-24]
 * Hebbian Learning based Orthogonal Projection for Continual Learning of Spiking Neural Networks (**ICLR 2024**). \[[paper](https://arxiv.org/pdf/2402.11984.pdf)] \[[code](https://github.com/pkuxmq/HLOP-SNN) ⭐ 46 | 🐛 0 | 🌐 Python | 📅 2024-02-20]
-* Spiking Wavelet Transformer (**ECCV 2024**). \[[paper](https://arxiv.org/pdf/2403.11138)] \[[code](https://github.com/bic-L/Spiking-Wavelet-Transformer) ⭐ 43 | 🐛 0 | 🌐 Python | 📅 2025-07-13]
+* Spiking Wavelet Transformer (**ECCV 2024**). \[[paper](https://arxiv.org/pdf/2403.11138)] \[[code](https://github.com/bic-L/Spiking-Wavelet-Transformer) ⭐ 42 | 🐛 0 | 🌐 Python | 📅 2025-07-13]
 * SFOD: Spiking Fusion Object Detector (**CVPR 2024**). \[[paper](https://arxiv.org/pdf/2403.15192)] \[[code](https://github.com/yimeng-fan/SFOD) ⭐ 40 | 🐛 6 | 🌐 Python | 📅 2024-03-11]
 * EAS-SNN: End-to-End Adaptive Sampling and Representation for Event-based Detection with Recurrent Spiking Neural Networks (**ECCV 2024**). \[[paper](https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/07766.pdf)] \[[code](https://github.com/Windere/EAS-SNN) ⭐ 39 | 🐛 0 | 🌐 Python | 📅 2024-10-25]
 * BKDSNN: Enhancing the Performance of Learning-based Spiking Neural Networks Training with Blurred Knowledge Distillation (**ECCV 2024**). \[[paper](https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/06649.pdf)] \[[code](https://github.com/Intelligent-Computing-Research-Group/BKDSNN) ⭐ 36 | 🐛 1 | 🌐 Python | 📅 2024-11-22]
@@ -299,7 +299,7 @@ If you own or find some overlooked SNN papers, you can add them to this document
 * Advancing Training Efficiency of Deep Spiking Neural Networks through Rate-based Backpropagation (**NeurIPS 2024**). \[[paper](https://arxiv.org/abs/2410.11488)] \[[code](https://github.com/Tab-ct/rate-based-backpropagation) ⭐ 20 | 🐛 0 | 🌐 Python | 📅 2025-01-16]
 * Towards High-performance Spiking Transformers from ANN to SNN Conversion (**ACM MM 2024**). \[[paper](https://dl.acm.org/doi/10.1145/3664647.3680620)]  \[[code](https://github.com/h-z-h-cell/Transformer-to-SNN-ECMT) ⭐ 20 | 🐛 5 | 🌐 Python | 📅 2025-02-18]
 * Memory-Efficient Reversible Spiking Neural Networks (**AAAI 2024**).  \[[paper](https://arxiv.org/pdf/2312.07922.pdf)] \[[code](https://github.com/mi804/RevSNN) ⭐ 20 | 🐛 0 | 🌐 Python | 📅 2023-12-14]
-* LMUFormer: Low Complexity Yet Powerful Spiking Model With Legendre Memory Units (**ICLR 2024**). \[[paper](https://arxiv.org/pdf/2402.04882.pdf)] \[[code](https://github.com/zeyuliu1037/LMUFormer) ⭐ 13 | 🐛 1 | 🌐 Jupyter Notebook | 📅 2024-09-20]
+* LMUFormer: Low Complexity Yet Powerful Spiking Model With Legendre Memory Units (**ICLR 2024**). \[[paper](https://arxiv.org/pdf/2402.04882.pdf)] \[[code](https://github.com/zeyuliu1037/LMUFormer) ⭐ 14 | 🐛 1 | 🌐 Jupyter Notebook | 📅 2024-09-20]
 * An Efficient Knowledge Transfer Strategy for Spiking Neural Networks from Static to Event Domain (**AAAI 2024**).  \[[paper](https://arxiv.org/pdf/2303.13077.pdf)] \[[code](https://github.com/Brain-Cog-Lab/Transfer-for-DVS) ⭐ 10 | 🐛 3 | 🌐 Python | 📅 2025-05-09]
 * FEEL-SNN: Robust Spiking Neural Networks with Frequency Encoding and Evolutionary Leak Factor (**NeurIPS 2024**). \[[paper](https://openreview.net/pdf?id=TuCQdBo4NC)] \[[code](https://github.com/zju-bmi-lab/FEEL_SNN) ⭐ 9 | 🐛 1 | 🌐 Python | 📅 2024-10-28]
 * EC-SNN: Splitting Deep Spiking Neural Networks on Edge Devices (**IJCAI 2024**). \[[code](https://github.com/AmazingDD/EC-SNN) ⭐ 9 | 🐛 0 | 🌐 Python | 📅 2024-09-06]
@@ -376,12 +376,12 @@ If you own or find some overlooked SNN papers, you can add them to this document
 
 **AAAI, ICLR, CVPR, ICML, IJCAI, ICCV, NeurIPS, TPAMI, Science Advances**
 
-* SpikingJelly: An open-source machine learning infrastructure platform for spike-based intelligence (**Science Advances 2023**). \[[paper](https://www.science.org/doi/10.1126/sciadv.adi1480)] \[[code](https://github.com/fangwei123456/spikingjelly) ⭐ 2,104 | 🐛 126 | 🌐 Python | 📅 2026-08-16]
-* Attention Spiking Neural Networks  (**TPAMI 2023**) .\[[paper](https://ieeexplore.ieee.org/abstract/document/10032591)] \[[code](https://github.com/fangwei123456/spikingjelly/pull/329) ⭐ 2,104 | 🐛 126 | 🌐 Python | 📅 2026-08-16]
+* SpikingJelly: An open-source machine learning infrastructure platform for spike-based intelligence (**Science Advances 2023**). \[[paper](https://www.science.org/doi/10.1126/sciadv.adi1480)] \[[code](https://github.com/fangwei123456/spikingjelly) ⭐ 2,103 | 🐛 126 | 🌐 Python | 📅 2026-08-17]
+* Attention Spiking Neural Networks  (**TPAMI 2023**) .\[[paper](https://ieeexplore.ieee.org/abstract/document/10032591)] \[[code](https://github.com/fangwei123456/spikingjelly/pull/329) ⭐ 2,103 | 🐛 126 | 🌐 Python | 📅 2026-08-17]
 * Spikformer: When Spiking Neural Network Meets Transformer (**ICLR 2023**) .\[[paper](https://openreview.net/forum?id=frE4fUwz_h)] \[[code](https://github.com/ZK-Zhou/spikformer) ⭐ 412 | 🐛 18 | 🌐 Python | 📅 2024-01-23]
 * Spike-driven Transformer \[[paper](https://arxiv.org/pdf/2307.01694.pdf)] \[[code](https://github.com/BICLab/Spike-Driven-Transformer) ⭐ 315 | 🐛 4 | 🌐 Python | 📅 2024-03-18]
 * Scaling Up Dynamic Graph Representation Learning via Spiking Neural Networks(**AAAI 2023**). \[[paper](https://arxiv.org/pdf/2208.10364.pdf)] \[[code](https://github.com/EdisonLeeeee/SpikeNet) ⭐ 80 | 🐛 1 | 🌐 Python | 📅 2023-09-27]
-* Parallel Spiking Neurons with High Efficiency and Long-term Dependencies Learning Ability (**NeurIPS 2023**). \[[paper](https://arxiv.org/abs/2304.12760)] \[[code](https://github.com/fangwei123456/Parallel-Spiking-Neuron) ⭐ 57 | 🐛 4 | 🌐 Python | 📅 2024-01-21]
+* Parallel Spiking Neurons with High Efficiency and Long-term Dependencies Learning Ability (**NeurIPS 2023**). \[[paper](https://arxiv.org/abs/2304.12760)] \[[code](https://github.com/fangwei123456/Parallel-Spiking-Neuron) ⭐ 56 | 🐛 4 | 🌐 Python | 📅 2024-01-21]
 * Spiking PointNet: Spiking Neural Networks for Point Clouds (**NeurIPS 2023**). \[[paper](https://arxiv.org/pdf/2310.06232v1.pdf)] \[[code](https://github.com/dayongren/spiking-pointnet) ⭐ 39 | 🐛 2 | 🌐 Python | 📅 2023-10-09]
 * Exploring Temporal Information Dynamics in Spiking Neural Networks (**AAAI 2023**). \[[paper](https://arxiv.org/pdf/2211.14406.pdf)] \[[code](https://github.com/Intelligent-Computing-Lab-Yale/Exploring-Temporal-Information-Dynamics-in-Spiking-Neural-Networks) ⭐ 31 | 🐛 0 | 🌐 Python | 📅 2022-11-25]
 * Reducing ANN-SNN Conversion Error through Residual Membrane Potential (**AAAI 2023**). \[[paper](https://arxiv.org/abs/2302.02091)] \[[code](https://github.com/hzc1208/ANN2SNN_SRP) ⭐ 23 | 🐛 1 | 🌐 Python | 📅 2022-11-28]
@@ -461,7 +461,7 @@ If you own or find some overlooked SNN papers, you can add them to this document
 
 **NeurIPS, ICCV, IJCAI, ICML, AAAI**
 
-* Deep Residual Learning in Spiking Neural Networks (**NeurIPS 2021**). \[[paper](https://proceedings.neurips.cc/paper/2021/file/afe434653a898da20044041262b3ac74-Paper.pdf)] \[[code](https://github.com/fangwei123456/Spike-Element-Wise-ResNet) ⭐ 197 | 🐛 12 | 🌐 Python | 📅 2022-08-09]
+* Deep Residual Learning in Spiking Neural Networks (**NeurIPS 2021**). \[[paper](https://proceedings.neurips.cc/paper/2021/file/afe434653a898da20044041262b3ac74-Paper.pdf)] \[[code](https://github.com/fangwei123456/Spike-Element-Wise-ResNet) ⭐ 198 | 🐛 12 | 🌐 Python | 📅 2022-08-09]
 * Incorporating Learnable Membrane Time Constant to Enhance Learning of Spiking Neural Networks (**ECCV 2021**).  \[[paper](https://arxiv.org/abs/2007.05785)]  \[[code](https://github.com/fangwei123456/Parametric-Leaky-Integrate-and-Fire-Spiking-Neuron) ⭐ 124 | 🐛 2 | 🌐 Python | 📅 2022-08-09]
 * A Free Lunch From ANN: Towards Efficient, Accurate Spiking Neural Networks Calibration  (**ICML 2021**).  \[[paper](https://arxiv.org/pdf/2106.06984)] \[[code](https://github.com/yhhhli/SNN_Calibration) ⭐ 92 | 🐛 6 | 🌐 Python | 📅 2024-05-09]
 * Pruning of Deep Spiking Neural Networks through Gradient Rewiring \[[paper](https://arxiv.org/abs/2105.04916)] \[[code](https://github.com/Yanqi-Chen/Gradient-Rewiring) ⭐ 32 | 🐛 2 | 🌐 Python | 📅 2021-08-18]
@@ -489,4 +489,4 @@ If you find this repo useful, please consider citing:
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-17._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-18._
