@@ -504,7 +504,7 @@
                 "last_commit": "2025-11-06T13:37:53Z",
                 "owner": "BrainCog-X",
                 "repo": "Brain-Cog",
-                "stars": 643
+                "stars": 644
               }
             },
             {
@@ -534,7 +534,7 @@
                 "last_commit": "2024-05-10T15:06:37Z",
                 "owner": "BICLab",
                 "repo": "Spike-Driven-Transformer-V2",
-                "stars": 232
+                "stars": 231
               }
             },
             {
@@ -1044,7 +1044,7 @@
                 "last_commit": "2024-01-23T08:54:58Z",
                 "owner": "ZK-Zhou",
                 "repo": "spikformer",
-                "stars": 412
+                "stars": 413
               }
             },
             {
@@ -1111,7 +1111,7 @@
                 "last_commit": "2024-01-23T08:54:58Z",
                 "owner": "ZK-Zhou",
                 "repo": "spikformer",
-                "stars": 412
+                "stars": 413
               }
             },
             {
@@ -1603,7 +1603,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-19T12:11:14.946Z",
+    "last_updated": "2026-08-20T05:59:29.451Z",
     "original_repository": "TheBrainLab/Awesome-Spiking-Neural-Networks",
     "original_repository_id": 604486210,
     "original_repository_sha": "7c4bff676d28ba00ee010f8a11aeedd698b10248",
