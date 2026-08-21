@@ -317,7 +317,7 @@
                 "last_commit": "2025-02-10T02:31:59Z",
                 "owner": "shen-aoyu",
                 "repo": "CREST",
-                "stars": 10
+                "stars": 11
               }
             },
             {
@@ -519,7 +519,7 @@
                 "last_commit": "2025-06-30T05:52:54Z",
                 "owner": "BICLab",
                 "repo": "SpikeYOLO",
-                "stars": 254
+                "stars": 255
               }
             },
             {
@@ -594,7 +594,7 @@
                 "last_commit": "2025-07-07T03:35:20Z",
                 "owner": "MingTian99",
                 "repo": "ESDNet",
-                "stars": 78
+                "stars": 79
               }
             },
             {
@@ -659,21 +659,6 @@
             },
             {
               "node_type": "item",
-              "title": "EAS-SNN: End-to-End Adaptive Sampling and Representation for Event-based Detection with Recurrent Spiking Neural Networks (ECCV 2024). [paper",
-              "description": "] [code]",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "id": 801348128,
-                "language": "Python",
-                "last_commit": "2024-10-25T13:11:30Z",
-                "owner": "Windere",
-                "repo": "EAS-SNN",
-                "stars": 40
-              }
-            },
-            {
-              "node_type": "item",
               "title": "SFOD: Spiking Fusion Object Detector (CVPR 2024). [paper",
               "description": "] [code]",
               "children": [],
@@ -684,6 +669,21 @@
                 "last_commit": "2024-03-11T02:25:25Z",
                 "owner": "yimeng-fan",
                 "repo": "SFOD",
+                "stars": 41
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "EAS-SNN: End-to-End Adaptive Sampling and Representation for Event-based Detection with Recurrent Spiking Neural Networks (ECCV 2024). [paper",
+              "description": "] [code]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 801348128,
+                "language": "Python",
+                "last_commit": "2024-10-25T13:11:30Z",
+                "owner": "Windere",
+                "repo": "EAS-SNN",
                 "stars": 40
               }
             },
@@ -1081,7 +1081,7 @@
                 "last_commit": "2026-08-19T09:41:09Z",
                 "owner": "fangwei123456",
                 "repo": "spikingjelly",
-                "stars": 2104
+                "stars": 2106
               }
             },
             {
@@ -1096,7 +1096,7 @@
                 "last_commit": "2026-08-19T09:41:09Z",
                 "owner": "fangwei123456",
                 "repo": "spikingjelly",
-                "stars": 2104
+                "stars": 2106
               }
             },
             {
@@ -1603,7 +1603,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-20T05:59:29.451Z",
+    "last_updated": "2026-08-21T06:00:52.331Z",
     "original_repository": "TheBrainLab/Awesome-Spiking-Neural-Networks",
     "original_repository_id": 604486210,
     "original_repository_sha": "7c4bff676d28ba00ee010f8a11aeedd698b10248",
