@@ -504,7 +504,7 @@
                 "last_commit": "2025-11-06T13:37:53Z",
                 "owner": "BrainCog-X",
                 "repo": "Brain-Cog",
-                "stars": 644
+                "stars": 645
               }
             },
             {
@@ -834,7 +834,7 @@
                 "last_commit": "2025-05-09T08:00:52Z",
                 "owner": "Brain-Cog-Lab",
                 "repo": "Transfer-for-DVS",
-                "stars": 11
+                "stars": 12
               }
             },
             {
@@ -1029,7 +1029,7 @@
                 "last_commit": "2025-12-02T00:25:05Z",
                 "owner": "ridgerchu",
                 "repo": "matmulfreellm",
-                "stars": 3087
+                "stars": 3088
               }
             },
             {
@@ -1078,7 +1078,7 @@
                 "archived": false,
                 "id": 228557692,
                 "language": "Python",
-                "last_commit": "2026-08-21T18:32:04Z",
+                "last_commit": "2026-08-22T18:49:15Z",
                 "owner": "fangwei123456",
                 "repo": "spikingjelly",
                 "stars": 2106
@@ -1093,7 +1093,7 @@
                 "archived": false,
                 "id": 228557692,
                 "language": "Python",
-                "last_commit": "2026-08-21T18:32:04Z",
+                "last_commit": "2026-08-22T18:49:15Z",
                 "owner": "fangwei123456",
                 "repo": "spikingjelly",
                 "stars": 2106
@@ -1126,7 +1126,7 @@
                 "last_commit": "2024-03-18T06:56:13Z",
                 "owner": "BICLab",
                 "repo": "Spike-Driven-Transformer",
-                "stars": 315
+                "stars": 316
               }
             },
             {
@@ -1603,7 +1603,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-22T05:56:05.039Z",
+    "last_updated": "2026-08-23T05:57:46.336Z",
     "original_repository": "TheBrainLab/Awesome-Spiking-Neural-Networks",
     "original_repository_id": 604486210,
     "original_repository_sha": "7c4bff676d28ba00ee010f8a11aeedd698b10248",
