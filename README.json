@@ -1078,10 +1078,10 @@
                 "archived": false,
                 "id": 228557692,
                 "language": "Python",
-                "last_commit": "2026-08-22T18:49:15Z",
+                "last_commit": "2026-08-23T17:10:50Z",
                 "owner": "fangwei123456",
                 "repo": "spikingjelly",
-                "stars": 2106
+                "stars": 2107
               }
             },
             {
@@ -1093,10 +1093,10 @@
                 "archived": false,
                 "id": 228557692,
                 "language": "Python",
-                "last_commit": "2026-08-22T18:49:15Z",
+                "last_commit": "2026-08-23T17:10:50Z",
                 "owner": "fangwei123456",
                 "repo": "spikingjelly",
-                "stars": 2106
+                "stars": 2107
               }
             },
             {
@@ -1276,7 +1276,7 @@
                 "last_commit": "2025-07-21T05:51:34Z",
                 "owner": "ridgerchu",
                 "repo": "SpikeGPT",
-                "stars": 911
+                "stars": 910
               }
             },
             {
@@ -1291,7 +1291,7 @@
                 "last_commit": "2026-04-16T09:38:48Z",
                 "owner": "TheBrainLab",
                 "repo": "Spikingformer",
-                "stars": 150
+                "stars": 151
               }
             },
             {
@@ -1603,7 +1603,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-23T05:57:46.336Z",
+    "last_updated": "2026-08-24T06:05:58.502Z",
     "original_repository": "TheBrainLab/Awesome-Spiking-Neural-Networks",
     "original_repository_id": 604486210,
     "original_repository_sha": "7c4bff676d28ba00ee010f8a11aeedd698b10248",
