@@ -137,7 +137,7 @@
                 "last_commit": "2026-02-08T14:29:53Z",
                 "owner": "microsoft",
                 "repo": "SeqSNN",
-                "stars": 91
+                "stars": 92
               }
             },
             {
@@ -504,7 +504,7 @@
                 "last_commit": "2025-11-06T13:37:53Z",
                 "owner": "BrainCog-X",
                 "repo": "Brain-Cog",
-                "stars": 645
+                "stars": 646
               }
             },
             {
@@ -554,21 +554,6 @@
             },
             {
               "node_type": "item",
-              "title": "Autonomous Driving with Spiking Neural Networks (NeurIPS 2024). [paper",
-              "description": "] [code]",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "id": 807984491,
-                "language": "Python",
-                "last_commit": "2025-01-13T04:32:58Z",
-                "owner": "ridgerchu",
-                "repo": "SAD",
-                "stars": 91
-              }
-            },
-            {
-              "node_type": "item",
               "title": "Advancing Spiking Neural Networks for Sequential Modeling with Central Pattern Generators (NeurIPS 2024). [paper",
               "description": "] [code]",
               "children": [],
@@ -579,6 +564,21 @@
                 "last_commit": "2026-02-08T14:29:53Z",
                 "owner": "microsoft",
                 "repo": "SeqSNN",
+                "stars": 92
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Autonomous Driving with Spiking Neural Networks (NeurIPS 2024). [paper",
+              "description": "] [code]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 807984491,
+                "language": "Python",
+                "last_commit": "2025-01-13T04:32:58Z",
+                "owner": "ridgerchu",
+                "repo": "SAD",
                 "stars": 91
               }
             },
@@ -1078,10 +1078,10 @@
                 "archived": false,
                 "id": 228557692,
                 "language": "Python",
-                "last_commit": "2026-08-25T16:27:27Z",
+                "last_commit": "2026-08-27T10:23:45Z",
                 "owner": "fangwei123456",
                 "repo": "spikingjelly",
-                "stars": 2108
+                "stars": 2111
               }
             },
             {
@@ -1093,10 +1093,10 @@
                 "archived": false,
                 "id": 228557692,
                 "language": "Python",
-                "last_commit": "2026-08-25T16:27:27Z",
+                "last_commit": "2026-08-27T10:23:45Z",
                 "owner": "fangwei123456",
                 "repo": "spikingjelly",
-                "stars": 2108
+                "stars": 2111
               }
             },
             {
@@ -1603,9 +1603,16 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-26T06:02:44.669Z",
-    "original_repository": "TheBrainLab/Awesome-Spiking-Neural-Networks",
-    "original_repository_id": 604486210,
+    "last_updated": "2026-08-27T11:24:32.421Z",
+    "original_repository_info": {
+      "archived": false,
+      "id": 604486210,
+      "language": null,
+      "last_commit": "2026-03-24T09:49:17Z",
+      "owner": "TheBrainLab",
+      "repo": "Awesome-Spiking-Neural-Networks",
+      "stars": 821
+    },
     "original_repository_sha": "7c4bff676d28ba00ee010f8a11aeedd698b10248",
     "enhanced_repository": "enhansome/enhansome-Awesome-Spiking-Neural-Networks",
     "enhanced_repository_description": null,
