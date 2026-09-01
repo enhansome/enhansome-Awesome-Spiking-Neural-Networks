@@ -369,7 +369,7 @@
                 "open_issues": 0,
                 "owner": "shenshuaijie",
                 "repo": "SDN",
-                "stars": 23,
+                "stars": 24,
                 "topics": []
               },
               "first_seen": "2026-08-28T17:40:30.677Z"
@@ -1213,7 +1213,7 @@
                 "language": "Jupyter Notebook",
                 "license": "MIT",
                 "last_commit": "2024-09-20T18:23:14Z",
-                "open_issues": 1,
+                "open_issues": 0,
                 "owner": "zeyuliu1037",
                 "repo": "LMUFormer",
                 "stars": 14,
@@ -1596,11 +1596,11 @@
                 "id": 228557692,
                 "language": "Python",
                 "license": "NOASSERTION",
-                "last_commit": "2026-08-31T03:22:49Z",
+                "last_commit": "2026-09-01T09:21:25Z",
                 "open_issues": 126,
                 "owner": "fangwei123456",
                 "repo": "spikingjelly",
-                "stars": 2112,
+                "stars": 2114,
                 "topics": [
                   "deep-learning",
                   "dvs",
@@ -1624,11 +1624,11 @@
                 "id": 228557692,
                 "language": "Python",
                 "license": "NOASSERTION",
-                "last_commit": "2026-08-31T03:22:49Z",
+                "last_commit": "2026-09-01T09:21:25Z",
                 "open_issues": 126,
                 "owner": "fangwei123456",
                 "repo": "spikingjelly",
-                "stars": 2112,
+                "stars": 2114,
                 "topics": [
                   "deep-learning",
                   "dvs",
@@ -2276,7 +2276,7 @@
                 "open_issues": 12,
                 "owner": "fangwei123456",
                 "repo": "Spike-Element-Wise-ResNet",
-                "stars": 198,
+                "stars": 199,
                 "topics": []
               },
               "first_seen": "2026-08-28T17:40:30.677Z"
@@ -2380,7 +2380,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-31T11:47:44.490Z",
+    "last_updated": "2026-09-01T10:22:59.458Z",
     "original_repository_info": {
       "archived": false,
       "description": "A paper list of spiking neural networks, including papers, codes, and related websites.  本仓库收集脉冲神经网络相关的顶会顶刊以及CNS论文和代码，正在持续更新中。",
@@ -2392,7 +2392,7 @@
       "open_issues": 3,
       "owner": "TheBrainLab",
       "repo": "Awesome-Spiking-Neural-Networks",
-      "stars": 824,
+      "stars": 826,
       "topics": [
         "3rd-generation-of-artificial-neural-networks",
         "awesome",
