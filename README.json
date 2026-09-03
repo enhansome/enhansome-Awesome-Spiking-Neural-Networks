@@ -1213,7 +1213,7 @@
                 "language": "Jupyter Notebook",
                 "license": "MIT",
                 "last_commit": "2024-09-20T18:23:14Z",
-                "open_issues": 0,
+                "open_issues": 1,
                 "owner": "zeyuliu1037",
                 "repo": "LMUFormer",
                 "stars": 14,
@@ -1596,11 +1596,11 @@
                 "id": 228557692,
                 "language": "Python",
                 "license": "NOASSERTION",
-                "last_commit": "2026-09-01T09:21:25Z",
+                "last_commit": "2026-09-03T07:46:13Z",
                 "open_issues": 126,
                 "owner": "fangwei123456",
                 "repo": "spikingjelly",
-                "stars": 2114,
+                "stars": 2115,
                 "topics": [
                   "deep-learning",
                   "dvs",
@@ -1624,11 +1624,11 @@
                 "id": 228557692,
                 "language": "Python",
                 "license": "NOASSERTION",
-                "last_commit": "2026-09-01T09:21:25Z",
+                "last_commit": "2026-09-03T07:46:13Z",
                 "open_issues": 126,
                 "owner": "fangwei123456",
                 "repo": "spikingjelly",
-                "stars": 2114,
+                "stars": 2115,
                 "topics": [
                   "deep-learning",
                   "dvs",
@@ -2380,7 +2380,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-02T09:51:38.179Z",
+    "last_updated": "2026-09-03T10:02:42.881Z",
     "original_repository_info": {
       "archived": false,
       "description": "A paper list of spiking neural networks, including papers, codes, and related websites.  本仓库收集脉冲神经网络相关的顶会顶刊以及CNS论文和代码，正在持续更新中。",
