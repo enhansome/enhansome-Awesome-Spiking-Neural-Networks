@@ -737,7 +737,7 @@
                 "open_issues": 30,
                 "owner": "BrainCog-X",
                 "repo": "Brain-Cog",
-                "stars": 648,
+                "stars": 647,
                 "topics": [
                   "brain-inspired-ai",
                   "brain-inspired-computation",
@@ -948,7 +948,7 @@
                 "open_issues": 0,
                 "owner": "pkuxmq",
                 "repo": "HLOP-SNN",
-                "stars": 46,
+                "stars": 45,
                 "topics": []
               },
               "first_seen": "2026-08-28T17:40:30.677Z"
@@ -1244,27 +1244,6 @@
             },
             {
               "node_type": "item",
-              "title": "FEEL-SNN: Robust Spiking Neural Networks with Frequency Encoding and Evolutionary Leak Factor (NeurIPS 2024). [paper",
-              "description": "] [code]",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": null,
-                "homepage": null,
-                "id": 877978361,
-                "language": "Python",
-                "license": null,
-                "last_commit": "2024-10-28T05:33:50Z",
-                "open_issues": 1,
-                "owner": "zju-bmi-lab",
-                "repo": "FEEL_SNN",
-                "stars": 9,
-                "topics": []
-              },
-              "first_seen": "2026-08-28T17:40:30.677Z"
-            },
-            {
-              "node_type": "item",
               "title": "EC-SNN: Splitting Deep Spiking Neural Networks on Edge Devices (IJCAI 2024). [code",
               "description": "]",
               "children": [],
@@ -1308,6 +1287,27 @@
                 "owner": "godatta",
                 "repo": "Ultra-Low-Latency-SNN",
                 "stars": 9,
+                "topics": []
+              },
+              "first_seen": "2026-08-28T17:40:30.677Z"
+            },
+            {
+              "node_type": "item",
+              "title": "FEEL-SNN: Robust Spiking Neural Networks with Frequency Encoding and Evolutionary Leak Factor (NeurIPS 2024). [paper",
+              "description": "] [code]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": null,
+                "homepage": null,
+                "id": 877978361,
+                "language": "Python",
+                "license": null,
+                "last_commit": "2024-10-28T05:33:50Z",
+                "open_issues": 1,
+                "owner": "zju-bmi-lab",
+                "repo": "FEEL_SNN",
+                "stars": 8,
                 "topics": []
               },
               "first_seen": "2026-08-28T17:40:30.677Z"
@@ -1513,7 +1513,7 @@
                 "id": 790957648,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2025-12-02T00:25:05Z",
+                "last_commit": "2026-09-06T08:13:51Z",
                 "open_issues": 25,
                 "owner": "ridgerchu",
                 "repo": "matmulfreellm",
@@ -1600,7 +1600,7 @@
                 "open_issues": 131,
                 "owner": "fangwei123456",
                 "repo": "spikingjelly",
-                "stars": 2116,
+                "stars": 2117,
                 "topics": [
                   "deep-learning",
                   "dvs",
@@ -1628,7 +1628,7 @@
                 "open_issues": 131,
                 "owner": "fangwei123456",
                 "repo": "spikingjelly",
-                "stars": 2116,
+                "stars": 2117,
                 "topics": [
                   "deep-learning",
                   "dvs",
@@ -1730,7 +1730,7 @@
                 "open_issues": 4,
                 "owner": "fangwei123456",
                 "repo": "Parallel-Spiking-Neuron",
-                "stars": 56,
+                "stars": 55,
                 "topics": []
               },
               "first_seen": "2026-08-28T17:40:30.677Z"
@@ -2380,7 +2380,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-05T09:16:32.653Z",
+    "last_updated": "2026-09-06T09:37:44.407Z",
     "original_repository_info": {
       "archived": false,
       "description": "A paper list of spiking neural networks, including papers, codes, and related websites.  本仓库收集脉冲神经网络相关的顶会顶刊以及CNS论文和代码，正在持续更新中。",
@@ -2392,7 +2392,7 @@
       "open_issues": 3,
       "owner": "TheBrainLab",
       "repo": "Awesome-Spiking-Neural-Networks",
-      "stars": 826,
+      "stars": 828,
       "topics": [
         "3rd-generation-of-artificial-neural-networks",
         "awesome",
