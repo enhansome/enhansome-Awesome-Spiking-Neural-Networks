@@ -764,7 +764,7 @@
                 "open_issues": 10,
                 "owner": "BICLab",
                 "repo": "SpikeYOLO",
-                "stars": 257,
+                "stars": 258,
                 "topics": [
                   "neuromorphic-computing",
                   "spiking-neural-networks"
@@ -2380,7 +2380,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-10T09:59:49.950Z",
+    "last_updated": "2026-09-11T09:58:23.529Z",
     "original_repository_info": {
       "archived": false,
       "description": "A paper list of spiking neural networks, including papers, codes, and related websites.  本仓库收集脉冲神经网络相关的顶会顶刊以及CNS论文和代码，正在持续更新中。",
