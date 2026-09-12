@@ -178,7 +178,7 @@
                 "open_issues": 16,
                 "owner": "XduSyL",
                 "repo": "EventGPT",
-                "stars": 114,
+                "stars": 115,
                 "topics": [
                   "chatbot",
                   "event-language",
@@ -1600,7 +1600,7 @@
                 "open_issues": 123,
                 "owner": "fangwei123456",
                 "repo": "spikingjelly",
-                "stars": 2128,
+                "stars": 2129,
                 "topics": [
                   "deep-learning",
                   "dvs",
@@ -1628,7 +1628,7 @@
                 "open_issues": 123,
                 "owner": "fangwei123456",
                 "repo": "spikingjelly",
-                "stars": 2128,
+                "stars": 2129,
                 "topics": [
                   "deep-learning",
                   "dvs",
@@ -2380,7 +2380,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-11T09:58:23.529Z",
+    "last_updated": "2026-09-12T09:32:50.549Z",
     "original_repository_info": {
       "archived": false,
       "description": "A paper list of spiking neural networks, including papers, codes, and related websites.  本仓库收集脉冲神经网络相关的顶会顶刊以及CNS论文和代码，正在持续更新中。",
