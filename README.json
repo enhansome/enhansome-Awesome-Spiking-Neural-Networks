@@ -1517,7 +1517,7 @@
                 "open_issues": 25,
                 "owner": "ridgerchu",
                 "repo": "matmulfreellm",
-                "stars": 3090,
+                "stars": 3091,
                 "topics": [
                   "large-language-model",
                   "linear-transformer",
@@ -1600,7 +1600,7 @@
                 "open_issues": 123,
                 "owner": "fangwei123456",
                 "repo": "spikingjelly",
-                "stars": 2129,
+                "stars": 2130,
                 "topics": [
                   "deep-learning",
                   "dvs",
@@ -1628,7 +1628,7 @@
                 "open_issues": 123,
                 "owner": "fangwei123456",
                 "repo": "spikingjelly",
-                "stars": 2129,
+                "stars": 2130,
                 "topics": [
                   "deep-learning",
                   "dvs",
@@ -2380,7 +2380,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-12T09:32:50.549Z",
+    "last_updated": "2026-09-13T10:33:54.783Z",
     "original_repository_info": {
       "archived": false,
       "description": "A paper list of spiking neural networks, including papers, codes, and related websites.  本仓库收集脉冲神经网络相关的顶会顶刊以及CNS论文和代码，正在持续更新中。",
