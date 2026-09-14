@@ -1542,7 +1542,7 @@
                 "open_issues": 18,
                 "owner": "ZK-Zhou",
                 "repo": "spikformer",
-                "stars": 413,
+                "stars": 414,
                 "topics": []
               },
               "first_seen": "2026-08-28T17:40:30.677Z"
@@ -1597,10 +1597,10 @@
                 "language": "Python",
                 "license": "NOASSERTION",
                 "last_commit": "2026-09-09T17:28:29Z",
-                "open_issues": 123,
+                "open_issues": 124,
                 "owner": "fangwei123456",
                 "repo": "spikingjelly",
-                "stars": 2130,
+                "stars": 2132,
                 "topics": [
                   "deep-learning",
                   "dvs",
@@ -1625,10 +1625,10 @@
                 "language": "Python",
                 "license": "NOASSERTION",
                 "last_commit": "2026-09-09T17:28:29Z",
-                "open_issues": 123,
+                "open_issues": 124,
                 "owner": "fangwei123456",
                 "repo": "spikingjelly",
-                "stars": 2130,
+                "stars": 2132,
                 "topics": [
                   "deep-learning",
                   "dvs",
@@ -1656,7 +1656,7 @@
                 "open_issues": 18,
                 "owner": "ZK-Zhou",
                 "repo": "spikformer",
-                "stars": 413,
+                "stars": 414,
                 "topics": []
               },
               "first_seen": "2026-08-28T17:40:30.677Z"
@@ -1919,7 +1919,7 @@
                 "open_issues": 7,
                 "owner": "TheBrainLab",
                 "repo": "Spikingformer",
-                "stars": 151,
+                "stars": 152,
                 "topics": [
                   "3rd-generation-of-artificial-neural-networks",
                   "binary",
@@ -2297,7 +2297,7 @@
                 "open_issues": 2,
                 "owner": "fangwei123456",
                 "repo": "Parametric-Leaky-Integrate-and-Fire-Spiking-Neuron",
-                "stars": 124,
+                "stars": 125,
                 "topics": [
                   "deep-learning",
                   "deep-neural-networks",
@@ -2380,7 +2380,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-13T10:33:54.783Z",
+    "last_updated": "2026-09-14T10:56:30.992Z",
     "original_repository_info": {
       "archived": false,
       "description": "A paper list of spiking neural networks, including papers, codes, and related websites.  本仓库收集脉冲神经网络相关的顶会顶刊以及CNS论文和代码，正在持续更新中。",
