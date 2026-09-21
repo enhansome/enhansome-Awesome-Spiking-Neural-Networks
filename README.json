@@ -303,7 +303,7 @@
                 "open_issues": 3,
                 "owner": "BICLab",
                 "repo": "Spike2Former",
-                "stars": 43,
+                "stars": 44,
                 "topics": []
               },
               "first_seen": "2026-08-28T17:40:30.677Z"
@@ -788,7 +788,7 @@
                 "open_issues": 1,
                 "owner": "BICLab",
                 "repo": "Spike-Driven-Transformer-V2",
-                "stars": 234,
+                "stars": 235,
                 "topics": [
                   "neuromorphic-computing",
                   "neuromorphic-hardware",
@@ -1600,7 +1600,7 @@
                 "open_issues": 125,
                 "owner": "fangwei123456",
                 "repo": "spikingjelly",
-                "stars": 2137,
+                "stars": 2139,
                 "topics": [
                   "deep-learning",
                   "dvs",
@@ -1628,7 +1628,7 @@
                 "open_issues": 125,
                 "owner": "fangwei123456",
                 "repo": "spikingjelly",
-                "stars": 2137,
+                "stars": 2139,
                 "topics": [
                   "deep-learning",
                   "dvs",
@@ -1677,7 +1677,7 @@
                 "open_issues": 4,
                 "owner": "BICLab",
                 "repo": "Spike-Driven-Transformer",
-                "stars": 318,
+                "stars": 319,
                 "topics": [
                   "neuromorphic-computing",
                   "spike-driven",
@@ -2380,7 +2380,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-20T10:02:53.171Z",
+    "last_updated": "2026-09-21T11:01:58.649Z",
     "original_repository_info": {
       "archived": false,
       "description": "A paper list of spiking neural networks, including papers, codes, and related websites.  本仓库收集脉冲神经网络相关的顶会顶刊以及CNS论文和代码，正在持续更新中。",
@@ -2392,7 +2392,7 @@
       "open_issues": 4,
       "owner": "TheBrainLab",
       "repo": "Awesome-Spiking-Neural-Networks",
-      "stars": 834,
+      "stars": 836,
       "topics": [
         "3rd-generation-of-artificial-neural-networks",
         "awesome",
