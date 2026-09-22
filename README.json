@@ -443,6 +443,27 @@
             },
             {
               "node_type": "item",
+              "title": "Toward End-to-End Bearing Fault Diagnosis for Industrial Scenarios with Spiking Neural Networks (KDD 2025). [paper",
+              "description": "][code]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "This is the code for the KDD'25 paper, \"Toward End-to-End Bearing Fault Diagnosis for Industrial Scenarios with Spiking Neural Networks.\"",
+                "homepage": null,
+                "id": 991131779,
+                "language": "Python",
+                "license": null,
+                "last_commit": "2026-01-08T13:11:44Z",
+                "open_issues": 1,
+                "owner": "yqding326",
+                "repo": "MRA-SNN",
+                "stars": 12,
+                "topics": []
+              },
+              "first_seen": "2026-08-28T17:40:30.677Z"
+            },
+            {
+              "node_type": "item",
               "title": "CREST: An Efficient Conjointly-trained Spike-driven Framework for Event-based Object Detection Exploiting Spatiotemporal Dynamics (AAAI 2025).[paper",
               "description": "] [code]",
               "children": [],
@@ -458,27 +479,6 @@
                 "owner": "shen-aoyu",
                 "repo": "CREST",
                 "stars": 12,
-                "topics": []
-              },
-              "first_seen": "2026-08-28T17:40:30.677Z"
-            },
-            {
-              "node_type": "item",
-              "title": "Toward End-to-End Bearing Fault Diagnosis for Industrial Scenarios with Spiking Neural Networks (KDD 2025). [paper",
-              "description": "][code]",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "This is the code for the KDD'25 paper, \"Toward End-to-End Bearing Fault Diagnosis for Industrial Scenarios with Spiking Neural Networks.\"",
-                "homepage": null,
-                "id": 991131779,
-                "language": "Python",
-                "license": null,
-                "last_commit": "2026-01-08T13:11:44Z",
-                "open_issues": 1,
-                "owner": "yqding326",
-                "repo": "MRA-SNN",
-                "stars": 11,
                 "topics": []
               },
               "first_seen": "2026-08-28T17:40:30.677Z"
@@ -976,27 +976,6 @@
             },
             {
               "node_type": "item",
-              "title": "SFOD: Spiking Fusion Object Detector (CVPR 2024). [paper",
-              "description": "] [code]",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "This is the official implementation of the 'SFOD: Spiking Fusion Object Detection'. ",
-                "homepage": null,
-                "id": 769951503,
-                "language": "Python",
-                "license": "MIT",
-                "last_commit": "2024-03-11T02:25:25Z",
-                "open_issues": 6,
-                "owner": "yimeng-fan",
-                "repo": "SFOD",
-                "stars": 41,
-                "topics": []
-              },
-              "first_seen": "2026-08-28T17:40:30.677Z"
-            },
-            {
-              "node_type": "item",
               "title": "EAS-SNN: End-to-End Adaptive Sampling and Representation for Event-based Detection with Recurrent Spiking Neural Networks (ECCV 2024). [paper",
               "description": "] [code]",
               "children": [],
@@ -1021,6 +1000,27 @@
                   "sparse-representations",
                   "spiking-neural-networks"
                 ]
+              },
+              "first_seen": "2026-08-28T17:40:30.677Z"
+            },
+            {
+              "node_type": "item",
+              "title": "SFOD: Spiking Fusion Object Detector (CVPR 2024). [paper",
+              "description": "] [code]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "This is the official implementation of the 'SFOD: Spiking Fusion Object Detection'. ",
+                "homepage": null,
+                "id": 769951503,
+                "language": "Python",
+                "license": "MIT",
+                "last_commit": "2024-03-11T02:25:25Z",
+                "open_issues": 6,
+                "owner": "yimeng-fan",
+                "repo": "SFOD",
+                "stars": 40,
+                "topics": []
               },
               "first_seen": "2026-08-28T17:40:30.677Z"
             },
@@ -1600,7 +1600,7 @@
                 "open_issues": 125,
                 "owner": "fangwei123456",
                 "repo": "spikingjelly",
-                "stars": 2139,
+                "stars": 2140,
                 "topics": [
                   "deep-learning",
                   "dvs",
@@ -1628,7 +1628,7 @@
                 "open_issues": 125,
                 "owner": "fangwei123456",
                 "repo": "spikingjelly",
-                "stars": 2139,
+                "stars": 2140,
                 "topics": [
                   "deep-learning",
                   "dvs",
@@ -1730,7 +1730,7 @@
                 "open_issues": 4,
                 "owner": "fangwei123456",
                 "repo": "Parallel-Spiking-Neuron",
-                "stars": 55,
+                "stars": 56,
                 "topics": []
               },
               "first_seen": "2026-08-28T17:40:30.677Z"
@@ -2380,7 +2380,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-21T11:01:58.649Z",
+    "last_updated": "2026-09-22T10:15:31.840Z",
     "original_repository_info": {
       "archived": false,
       "description": "A paper list of spiking neural networks, including papers, codes, and related websites.  本仓库收集脉冲神经网络相关的顶会顶刊以及CNS论文和代码，正在持续更新中。",
@@ -2392,7 +2392,7 @@
       "open_issues": 4,
       "owner": "TheBrainLab",
       "repo": "Awesome-Spiking-Neural-Networks",
-      "stars": 836,
+      "stars": 838,
       "topics": [
         "3rd-generation-of-artificial-neural-networks",
         "awesome",
