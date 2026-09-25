@@ -1517,7 +1517,7 @@
                 "open_issues": 25,
                 "owner": "ridgerchu",
                 "repo": "matmulfreellm",
-                "stars": 3094,
+                "stars": 3093,
                 "topics": [
                   "large-language-model",
                   "linear-transformer",
@@ -1596,8 +1596,8 @@
                 "id": 228557692,
                 "language": "Python",
                 "license": "NOASSERTION",
-                "last_commit": "2026-09-24T06:24:10Z",
-                "open_issues": 125,
+                "last_commit": "2026-09-25T05:09:03Z",
+                "open_issues": 126,
                 "owner": "fangwei123456",
                 "repo": "spikingjelly",
                 "stars": 2140,
@@ -1624,8 +1624,8 @@
                 "id": 228557692,
                 "language": "Python",
                 "license": "NOASSERTION",
-                "last_commit": "2026-09-24T06:24:10Z",
-                "open_issues": 125,
+                "last_commit": "2026-09-25T05:09:03Z",
+                "open_issues": 126,
                 "owner": "fangwei123456",
                 "repo": "spikingjelly",
                 "stars": 2140,
@@ -1772,7 +1772,7 @@
                 "open_issues": 0,
                 "owner": "Intelligent-Computing-Lab-Panda",
                 "repo": "Exploring-Temporal-Information-Dynamics-in-Spiking-Neural-Networks",
-                "stars": 31,
+                "stars": 32,
                 "topics": []
               },
               "first_seen": "2026-08-28T17:40:30.677Z"
@@ -2380,7 +2380,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-24T10:27:14.026Z",
+    "last_updated": "2026-09-25T10:29:42.191Z",
     "original_repository_info": {
       "archived": false,
       "description": "A paper list of spiking neural networks, including papers, codes, and related websites.  本仓库收集脉冲神经网络相关的顶会顶刊以及CNS论文和代码，正在持续更新中。",
@@ -2392,7 +2392,7 @@
       "open_issues": 4,
       "owner": "TheBrainLab",
       "repo": "Awesome-Spiking-Neural-Networks",
-      "stars": 840,
+      "stars": 841,
       "topics": [
         "3rd-generation-of-artificial-neural-networks",
         "awesome",
