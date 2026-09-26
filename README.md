@@ -291,7 +291,7 @@ If you own or find some overlooked SNN papers, you can add them to this document
 * Spiking Wavelet Transformer (**ECCV 2024**). \[[paper](https://arxiv.org/pdf/2403.11138)] \[[code](https://github.com/bic-L/Spiking-Wavelet-Transformer) ⭐ 42 | 🐛 0 | 🌐 Python | 📅 2025-07-13]
 * EAS-SNN: End-to-End Adaptive Sampling and Representation for Event-based Detection with Recurrent Spiking Neural Networks (**ECCV 2024**). \[[paper](https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/07766.pdf)] \[[code](https://github.com/Windere/EAS-SNN) ⭐ 40 | 🐛 0 | 🌐 Python | 📅 2024-10-25]
 * SFOD: Spiking Fusion Object Detector (**CVPR 2024**). \[[paper](https://arxiv.org/pdf/2403.15192)] \[[code](https://github.com/yimeng-fan/SFOD) ⭐ 40 | 🐛 6 | 🌐 Python | 📅 2024-03-11]
-* BKDSNN: Enhancing the Performance of Learning-based Spiking Neural Networks Training with Blurred Knowledge Distillation (**ECCV 2024**). \[[paper](https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/06649.pdf)] \[[code](https://github.com/Intelligent-Computing-Research-Group/BKDSNN) ⭐ 38 | 🐛 1 | 🌐 Python | 📅 2024-11-22]
+* BKDSNN: Enhancing the Performance of Learning-based Spiking Neural Networks Training with Blurred Knowledge Distillation (**ECCV 2024**). \[[paper](https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/06649.pdf)] \[[code](https://github.com/Intelligent-Computing-Research-Group/BKDSNN) ⭐ 39 | 🐛 1 | 🌐 Python | 📅 2024-11-22]
 * A Graph is Worth 1-bit Spikes: When Graph Contrastive Learning Meets Spiking Neural Networks (**ICLR 2024**).  \[[paper](https://openreview.net/pdf?id=LnLySuf1vp)] \[[code](https://github.com/EdisonLeeeee/SpikeGCL) ⭐ 33 | 🐛 1 | 🌐 Python | 📅 2024-05-08]
 * Ternary Spike: Learning Ternary Spikes for Spiking Neural Networks (**AAAI 2024**).  \[[paper](https://arxiv.org/pdf/2312.06372.pdf)] \[[code](https://github.com/yfguo91/Ternary-Spike) ⭐ 30 | 🐛 4 | 🌐 Python | 📅 2023-12-14]
 * SpikingBERT: Distilling BERT to Train Spiking Language Models Using Implicit Differentiation (**AAAI 2024**).  \[[paper](https://arxiv.org/pdf/2308.10873.pdf)] \[[code](https://github.com/NeuroCompLab-psu/SpikingBERT) ⭐ 29 | 🐛 4 | 🌐 Python | 📅 2024-02-21]
@@ -489,4 +489,4 @@ If you find this repo useful, please consider citing:
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-25._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-26._
