@@ -485,27 +485,6 @@
             },
             {
               "node_type": "item",
-              "title": "Adaptive Surrogate Gradients for Sequential Reinforcement Learning in Spiking Neural Networks (Neurips 2025). [paper",
-              "description": "] [code]",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": null,
-                "homepage": null,
-                "id": 813005894,
-                "language": "Python",
-                "license": null,
-                "last_commit": "2025-10-28T10:56:04Z",
-                "open_issues": 0,
-                "owner": "korneelf1",
-                "repo": "SpikingCrazyflie",
-                "stars": 7,
-                "topics": []
-              },
-              "first_seen": "2026-08-28T17:40:30.677Z"
-            },
-            {
-              "node_type": "item",
               "title": "S$^2$M-Former: Spiking Symmetric Mixing Branchformer for Brain Auditory Attention Detection (Neurips 2025). [paper",
               "description": "] [code]",
               "children": [],
@@ -520,6 +499,27 @@
                 "open_issues": 1,
                 "owner": "JackieWang9811",
                 "repo": "S2M-Former",
+                "stars": 8,
+                "topics": []
+              },
+              "first_seen": "2026-08-28T17:40:30.677Z"
+            },
+            {
+              "node_type": "item",
+              "title": "Adaptive Surrogate Gradients for Sequential Reinforcement Learning in Spiking Neural Networks (Neurips 2025). [paper",
+              "description": "] [code]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": null,
+                "homepage": null,
+                "id": 813005894,
+                "language": "Python",
+                "license": null,
+                "last_commit": "2025-10-28T10:56:04Z",
+                "open_issues": 0,
+                "owner": "korneelf1",
+                "repo": "SpikingCrazyflie",
                 "stars": 7,
                 "topics": []
               },
@@ -813,7 +813,7 @@
                 "open_issues": 8,
                 "owner": "zhouchenlin2096",
                 "repo": "QKFormer",
-                "stars": 150,
+                "stars": 149,
                 "topics": [
                   "3rd-generation-of-artificial-neural-networks",
                   "brain-inspired",
@@ -1087,7 +1087,7 @@
                 "open_issues": 4,
                 "owner": "yfguo91",
                 "repo": "Ternary-Spike",
-                "stars": 30,
+                "stars": 31,
                 "topics": []
               },
               "first_seen": "2026-08-28T17:40:30.677Z"
@@ -1563,7 +1563,7 @@
                 "open_issues": 8,
                 "owner": "zhouchenlin2096",
                 "repo": "QKFormer",
-                "stars": 150,
+                "stars": 149,
                 "topics": [
                   "3rd-generation-of-artificial-neural-networks",
                   "brain-inspired",
@@ -1596,11 +1596,11 @@
                 "id": 228557692,
                 "language": "Python",
                 "license": "NOASSERTION",
-                "last_commit": "2026-09-28T11:48:25Z",
+                "last_commit": "2026-09-29T10:08:33Z",
                 "open_issues": 126,
                 "owner": "fangwei123456",
                 "repo": "spikingjelly",
-                "stars": 2142,
+                "stars": 2146,
                 "topics": [
                   "deep-learning",
                   "dvs",
@@ -1624,11 +1624,11 @@
                 "id": 228557692,
                 "language": "Python",
                 "license": "NOASSERTION",
-                "last_commit": "2026-09-28T11:48:25Z",
+                "last_commit": "2026-09-29T10:08:33Z",
                 "open_issues": 126,
                 "owner": "fangwei123456",
                 "repo": "spikingjelly",
-                "stars": 2142,
+                "stars": 2146,
                 "topics": [
                   "deep-learning",
                   "dvs",
@@ -2380,7 +2380,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-28T11:56:27.495Z",
+    "last_updated": "2026-09-29T11:31:12.536Z",
     "original_repository_info": {
       "archived": false,
       "description": "A paper list of spiking neural networks, including papers, codes, and related websites.  本仓库收集脉冲神经网络相关的顶会顶刊以及CNS论文和代码，正在持续更新中。",
@@ -2392,7 +2392,7 @@
       "open_issues": 4,
       "owner": "TheBrainLab",
       "repo": "Awesome-Spiking-Neural-Networks",
-      "stars": 841,
+      "stars": 842,
       "topics": [
         "3rd-generation-of-artificial-neural-networks",
         "awesome",
