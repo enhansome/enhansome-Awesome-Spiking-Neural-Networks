@@ -457,7 +457,7 @@
                 "open_issues": 1,
                 "owner": "yqding326",
                 "repo": "MRA-SNN",
-                "stars": 12,
+                "stars": 13,
                 "topics": []
               },
               "first_seen": "2026-08-28T17:40:30.677Z"
@@ -737,7 +737,7 @@
                 "open_issues": 31,
                 "owner": "BrainCog-X",
                 "repo": "Brain-Cog",
-                "stars": 656,
+                "stars": 657,
                 "topics": [
                   "brain-inspired-ai",
                   "brain-inspired-computation",
@@ -1517,7 +1517,7 @@
                 "open_issues": 25,
                 "owner": "ridgerchu",
                 "repo": "matmulfreellm",
-                "stars": 3090,
+                "stars": 3091,
                 "topics": [
                   "large-language-model",
                   "linear-transformer",
@@ -1597,7 +1597,7 @@
                 "language": "Python",
                 "license": "Apache-2.0",
                 "last_commit": "2026-10-03T06:35:39Z",
-                "open_issues": 125,
+                "open_issues": 126,
                 "owner": "fangwei123456",
                 "repo": "spikingjelly",
                 "stars": 2151,
@@ -1625,7 +1625,7 @@
                 "language": "Python",
                 "license": "Apache-2.0",
                 "last_commit": "2026-10-03T06:35:39Z",
-                "open_issues": 125,
+                "open_issues": 126,
                 "owner": "fangwei123456",
                 "repo": "spikingjelly",
                 "stars": 2151,
@@ -2380,7 +2380,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-03T10:33:55.054Z",
+    "last_updated": "2026-10-04T11:15:24.889Z",
     "original_repository_info": {
       "archived": false,
       "description": "A paper list of spiking neural networks, including papers, codes, and related websites.  本仓库收集脉冲神经网络相关的顶会顶刊以及CNS论文和代码，正在持续更新中。",
