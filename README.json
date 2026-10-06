@@ -1517,7 +1517,7 @@
                 "open_issues": 25,
                 "owner": "ridgerchu",
                 "repo": "matmulfreellm",
-                "stars": 3090,
+                "stars": 3092,
                 "topics": [
                   "large-language-model",
                   "linear-transformer",
@@ -1600,7 +1600,7 @@
                 "open_issues": 125,
                 "owner": "fangwei123456",
                 "repo": "spikingjelly",
-                "stars": 2151,
+                "stars": 2152,
                 "topics": [
                   "deep-learning",
                   "dvs",
@@ -1628,7 +1628,7 @@
                 "open_issues": 125,
                 "owner": "fangwei123456",
                 "repo": "spikingjelly",
-                "stars": 2151,
+                "stars": 2152,
                 "topics": [
                   "deep-learning",
                   "dvs",
@@ -2066,27 +2066,6 @@
             },
             {
               "node_type": "item",
-              "title": "Event-based Video Reconstruction via Potential-assisted Spiking Neural Network [paper",
-              "description": "LinZhu111/EVSNN",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": null,
-                "homepage": null,
-                "id": 473460194,
-                "language": "Python",
-                "license": null,
-                "last_commit": "2022-04-03T13:02:16Z",
-                "open_issues": 7,
-                "owner": "LinZhu111",
-                "repo": "EVSNN",
-                "stars": 55,
-                "topics": []
-              },
-              "first_seen": "2026-08-28T17:40:30.677Z"
-            },
-            {
-              "node_type": "item",
               "title": "GLIF: A Unified Gated Leaky Integrate-and-Fire Neuron for Spiking Neural Networks [paper",
               "description": "CAS-CLab/Gated-LIF",
               "children": [],
@@ -2102,6 +2081,27 @@
                 "owner": "CAS-CLab",
                 "repo": "Gated-LIF",
                 "stars": 55,
+                "topics": []
+              },
+              "first_seen": "2026-08-28T17:40:30.677Z"
+            },
+            {
+              "node_type": "item",
+              "title": "Event-based Video Reconstruction via Potential-assisted Spiking Neural Network [paper",
+              "description": "LinZhu111/EVSNN",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": null,
+                "homepage": null,
+                "id": 473460194,
+                "language": "Python",
+                "license": null,
+                "last_commit": "2022-04-03T13:02:16Z",
+                "open_issues": 7,
+                "owner": "LinZhu111",
+                "repo": "EVSNN",
+                "stars": 54,
                 "topics": []
               },
               "first_seen": "2026-08-28T17:40:30.677Z"
@@ -2380,7 +2380,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-05T12:33:33.443Z",
+    "last_updated": "2026-10-06T10:39:18.468Z",
     "original_repository_info": {
       "archived": false,
       "description": "A paper list of spiking neural networks, including papers, codes, and related websites.  本仓库收集脉冲神经网络相关的顶会顶刊以及CNS论文和代码，正在持续更新中。",
