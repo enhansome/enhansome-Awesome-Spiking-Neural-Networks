@@ -21,7 +21,7 @@
                 "open_issues": 1,
                 "owner": "fanliangwei",
                 "repo": "Multisynaptic-spiking-neurons",
-                "stars": 38,
+                "stars": 39,
                 "topics": []
               },
               "first_seen": "2026-08-28T17:40:30.677Z"
@@ -1596,11 +1596,11 @@
                 "id": 228557692,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-11T08:46:20Z",
+                "last_commit": "2026-10-12T12:38:04Z",
                 "open_issues": 125,
                 "owner": "fangwei123456",
                 "repo": "spikingjelly",
-                "stars": 2158,
+                "stars": 2159,
                 "topics": [
                   "deep-learning",
                   "dvs",
@@ -1624,11 +1624,11 @@
                 "id": 228557692,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-11T08:46:20Z",
+                "last_commit": "2026-10-12T12:38:04Z",
                 "open_issues": 125,
                 "owner": "fangwei123456",
                 "repo": "spikingjelly",
-                "stars": 2158,
+                "stars": 2159,
                 "topics": [
                   "deep-learning",
                   "dvs",
@@ -2380,7 +2380,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-11T11:33:42.895Z",
+    "last_updated": "2026-10-12T13:27:07.979Z",
     "original_repository_info": {
       "archived": false,
       "description": "A paper list of spiking neural networks, including papers, codes, and related websites.  本仓库收集脉冲神经网络相关的顶会顶刊以及CNS论文和代码，正在持续更新中。",
