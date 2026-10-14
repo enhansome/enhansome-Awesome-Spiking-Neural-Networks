@@ -230,7 +230,7 @@
                 "open_issues": 0,
                 "owner": "hadivafaii",
                 "repo": "IterativeVAE",
-                "stars": 72,
+                "stars": 73,
                 "topics": [
                   "free-energy",
                   "predictive-coding",
@@ -864,7 +864,7 @@
                 "open_issues": 4,
                 "owner": "ridgerchu",
                 "repo": "SAD",
-                "stars": 91,
+                "stars": 92,
                 "topics": []
               },
               "first_seen": "2026-08-28T17:40:30.677Z"
@@ -969,7 +969,7 @@
                 "open_issues": 0,
                 "owner": "bic-L",
                 "repo": "Spiking-Wavelet-Transformer",
-                "stars": 42,
+                "stars": 43,
                 "topics": []
               },
               "first_seen": "2026-08-28T17:40:30.677Z"
@@ -1596,11 +1596,11 @@
                 "id": 228557692,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-13T11:52:06Z",
-                "open_issues": 127,
+                "last_commit": "2026-10-14T04:43:04Z",
+                "open_issues": 125,
                 "owner": "fangwei123456",
                 "repo": "spikingjelly",
-                "stars": 2158,
+                "stars": 2160,
                 "topics": [
                   "deep-learning",
                   "dvs",
@@ -1624,11 +1624,11 @@
                 "id": 228557692,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-13T11:52:06Z",
-                "open_issues": 127,
+                "last_commit": "2026-10-14T04:43:04Z",
+                "open_issues": 125,
                 "owner": "fangwei123456",
                 "repo": "spikingjelly",
-                "stars": 2158,
+                "stars": 2160,
                 "topics": [
                   "deep-learning",
                   "dvs",
@@ -2380,7 +2380,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-13T12:54:37.075Z",
+    "last_updated": "2026-10-14T10:32:17.695Z",
     "original_repository_info": {
       "archived": false,
       "description": "A paper list of spiking neural networks, including papers, codes, and related websites.  本仓库收集脉冲神经网络相关的顶会顶刊以及CNS论文和代码，正在持续更新中。",
