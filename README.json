@@ -303,7 +303,7 @@
                 "open_issues": 1,
                 "owner": "BICLab",
                 "repo": "Spike2Former",
-                "stars": 44,
+                "stars": 45,
                 "topics": []
               },
               "first_seen": "2026-08-28T17:40:30.677Z"
@@ -520,7 +520,7 @@
                 "open_issues": 0,
                 "owner": "dzcgood",
                 "repo": "HetSyn",
-                "stars": 7,
+                "stars": 8,
                 "topics": []
               },
               "first_seen": "2026-08-28T17:40:30.677Z"
@@ -548,6 +548,27 @@
             },
             {
               "node_type": "item",
+              "title": "SPACE: SPike-Aware Consistency Enhancement for Test-Time Adaptation in Spiking Neural Networks (Neurips 2025). [paper",
+              "description": "ethanxyluo/SPACE",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "[NeurIPS 2025] SPACE: SPike-Aware Consistency Enhancement for Test-Time Adaptation in Spiking Neural Networks.",
+                "homepage": null,
+                "id": 1059903695,
+                "language": "Python",
+                "license": "MIT",
+                "last_commit": "2025-09-20T08:13:18Z",
+                "open_issues": 4,
+                "owner": "ethanxyluo",
+                "repo": "SPACE",
+                "stars": 6,
+                "topics": []
+              },
+              "first_seen": "2026-08-28T17:40:30.677Z"
+            },
+            {
+              "node_type": "item",
               "title": "Activity Pruning for Efficient Spiking Neural Networks (Neurips 2025). [paper",
               "description": "putshua/Activity-Pruning-SNN",
               "children": [],
@@ -563,27 +584,6 @@
                 "owner": "putshua",
                 "repo": "Activity-Pruning-SNN",
                 "stars": 6,
-                "topics": []
-              },
-              "first_seen": "2026-08-28T17:40:30.677Z"
-            },
-            {
-              "node_type": "item",
-              "title": "SPACE: SPike-Aware Consistency Enhancement for Test-Time Adaptation in Spiking Neural Networks (Neurips 2025). [paper",
-              "description": "ethanxyluo/SPACE",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "[NeurIPS 2025] SPACE: SPike-Aware Consistency Enhancement for Test-Time Adaptation in Spiking Neural Networks.",
-                "homepage": null,
-                "id": 1059903695,
-                "language": "Python",
-                "license": "MIT",
-                "last_commit": "2025-09-20T08:13:18Z",
-                "open_issues": 4,
-                "owner": "ethanxyluo",
-                "repo": "SPACE",
-                "stars": 5,
                 "topics": []
               },
               "first_seen": "2026-08-28T17:40:30.677Z"
@@ -1596,11 +1596,11 @@
                 "id": 228557692,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-14T04:43:04Z",
-                "open_issues": 125,
+                "last_commit": "2026-10-14T16:17:32Z",
+                "open_issues": 127,
                 "owner": "fangwei123456",
                 "repo": "spikingjelly",
-                "stars": 2160,
+                "stars": 2162,
                 "topics": [
                   "deep-learning",
                   "dvs",
@@ -1624,11 +1624,11 @@
                 "id": 228557692,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-14T04:43:04Z",
-                "open_issues": 125,
+                "last_commit": "2026-10-14T16:17:32Z",
+                "open_issues": 127,
                 "owner": "fangwei123456",
                 "repo": "spikingjelly",
-                "stars": 2160,
+                "stars": 2162,
                 "topics": [
                   "deep-learning",
                   "dvs",
@@ -2276,7 +2276,7 @@
                 "open_issues": 12,
                 "owner": "fangwei123456",
                 "repo": "Spike-Element-Wise-ResNet",
-                "stars": 199,
+                "stars": 200,
                 "topics": []
               },
               "first_seen": "2026-08-28T17:40:30.677Z"
@@ -2380,7 +2380,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-14T10:32:17.695Z",
+    "last_updated": "2026-10-15T10:15:14.766Z",
     "original_repository_info": {
       "archived": false,
       "description": "A paper list of spiking neural networks, including papers, codes, and related websites.  本仓库收集脉冲神经网络相关的顶会顶刊以及CNS论文和代码，正在持续更新中。",
