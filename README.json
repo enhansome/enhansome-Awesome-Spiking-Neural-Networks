@@ -737,7 +737,7 @@
                 "open_issues": 31,
                 "owner": "BrainCog-X",
                 "repo": "Brain-Cog",
-                "stars": 661,
+                "stars": 662,
                 "topics": [
                   "brain-inspired-ai",
                   "brain-inspired-computation",
@@ -813,7 +813,7 @@
                 "open_issues": 8,
                 "owner": "zhouchenlin2096",
                 "repo": "QKFormer",
-                "stars": 149,
+                "stars": 150,
                 "topics": [
                   "3rd-generation-of-artificial-neural-networks",
                   "brain-inspired",
@@ -1563,7 +1563,7 @@
                 "open_issues": 8,
                 "owner": "zhouchenlin2096",
                 "repo": "QKFormer",
-                "stars": 149,
+                "stars": 150,
                 "topics": [
                   "3rd-generation-of-artificial-neural-networks",
                   "brain-inspired",
@@ -1596,8 +1596,8 @@
                 "id": 228557692,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-14T16:17:32Z",
-                "open_issues": 127,
+                "last_commit": "2026-10-15T18:37:38Z",
+                "open_issues": 125,
                 "owner": "fangwei123456",
                 "repo": "spikingjelly",
                 "stars": 2162,
@@ -1624,8 +1624,8 @@
                 "id": 228557692,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-14T16:17:32Z",
-                "open_issues": 127,
+                "last_commit": "2026-10-15T18:37:38Z",
+                "open_issues": 125,
                 "owner": "fangwei123456",
                 "repo": "spikingjelly",
                 "stars": 2162,
@@ -2380,7 +2380,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-15T10:15:14.766Z",
+    "last_updated": "2026-10-16T10:03:46.212Z",
     "original_repository_info": {
       "archived": false,
       "description": "A paper list of spiking neural networks, including papers, codes, and related websites.  本仓库收集脉冲神经网络相关的顶会顶刊以及CNS论文和代码，正在持续更新中。",
