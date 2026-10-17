@@ -871,6 +871,27 @@
             },
             {
               "node_type": "item",
+              "title": "SpikingResformer: Bridging ResNet and Vision Transformer in Spiking Neural Networks (CVPR 2024). [paper",
+              "description": "xyshi2000/SpikingResformer",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "Codes of the paper: SpikingResformer: Bridging ResNet and Vision Transformer in Spiking Neural Networks (CVPR2024)",
+                "homepage": null,
+                "id": 775871418,
+                "language": "Python",
+                "license": "MIT",
+                "last_commit": "2024-12-19T09:17:23Z",
+                "open_issues": 4,
+                "owner": "xyshi2000",
+                "repo": "SpikingResformer",
+                "stars": 80,
+                "topics": []
+              },
+              "first_seen": "2026-08-28T17:40:30.677Z"
+            },
+            {
+              "node_type": "item",
               "title": "Learning a Spiking Neural Network for Efficient Image Deraining (IJCAI 2024). [code",
               "description": "MingTian99/ESDNet",
               "children": [],
@@ -886,27 +907,6 @@
                 "owner": "MingTian99",
                 "repo": "ESDNet",
                 "stars": 79,
-                "topics": []
-              },
-              "first_seen": "2026-08-28T17:40:30.677Z"
-            },
-            {
-              "node_type": "item",
-              "title": "SpikingResformer: Bridging ResNet and Vision Transformer in Spiking Neural Networks (CVPR 2024). [paper",
-              "description": "xyshi2000/SpikingResformer",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "Codes of the paper: SpikingResformer: Bridging ResNet and Vision Transformer in Spiking Neural Networks (CVPR2024)",
-                "homepage": null,
-                "id": 775871418,
-                "language": "Python",
-                "license": "MIT",
-                "last_commit": "2024-12-19T09:17:23Z",
-                "open_issues": 4,
-                "owner": "xyshi2000",
-                "repo": "SpikingResformer",
-                "stars": 78,
                 "topics": []
               },
               "first_seen": "2026-08-28T17:40:30.677Z"
@@ -1517,7 +1517,7 @@
                 "open_issues": 25,
                 "owner": "ridgerchu",
                 "repo": "matmulfreellm",
-                "stars": 3093,
+                "stars": 3094,
                 "topics": [
                   "large-language-model",
                   "linear-transformer",
@@ -1596,11 +1596,11 @@
                 "id": 228557692,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-15T18:37:38Z",
+                "last_commit": "2026-10-16T18:41:05Z",
                 "open_issues": 125,
                 "owner": "fangwei123456",
                 "repo": "spikingjelly",
-                "stars": 2162,
+                "stars": 2165,
                 "topics": [
                   "deep-learning",
                   "dvs",
@@ -1624,11 +1624,11 @@
                 "id": 228557692,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-15T18:37:38Z",
+                "last_commit": "2026-10-16T18:41:05Z",
                 "open_issues": 125,
                 "owner": "fangwei123456",
                 "repo": "spikingjelly",
-                "stars": 2162,
+                "stars": 2165,
                 "topics": [
                   "deep-learning",
                   "dvs",
@@ -2380,7 +2380,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-16T10:03:46.212Z",
+    "last_updated": "2026-10-17T09:37:12.115Z",
     "original_repository_info": {
       "archived": false,
       "description": "A paper list of spiking neural networks, including papers, codes, and related websites.  本仓库收集脉冲神经网络相关的顶会顶刊以及CNS论文和代码，正在持续更新中。",
