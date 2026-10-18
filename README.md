@@ -174,7 +174,7 @@ If you own or find some overlooked SNN papers, you can add them to this document
 
 * A multisynaptic spiking neuron for simultaneously encoding spatial and temporal dynamics in spiking neural networks (**Nature Communications, 2025**). \[[paper](https://doi.org/10.1038/s41467-025-62251-6)]\[[code](https://github.com/fanliangwei/Multisynaptic-spiking-neurons) ⭐ 39 | 🐛 1 | 🌐 Python | 📅 2025-08-12]
 * Advancing spatio-temporal processing through adaptation in spiking neural networks (**Nature Communications, 2025**). \[[paper](https://www.nature.com/articles/s41467-025-60878-z)]\[[code](https://github.com/IGITUGraz/SE-adlif) ⭐ 23 | 🐛 0 | 🌐 Python | 📅 2025-05-08]
-* Efficient and robust temporal processing with neural oscillations modulated spiking neural networks (**Nature Communications, 2025**). \[[paper](https://www.nature.com/articles/s41467-025-63771-x)]\[[code](https://github.com/YinsongYan/Rhythm-SNN) ⭐ 16 | 🐛 0 | 🌐 Python | 📅 2025-07-08]
+* Efficient and robust temporal processing with neural oscillations modulated spiking neural networks (**Nature Communications, 2025**). \[[paper](https://www.nature.com/articles/s41467-025-63771-x)]\[[code](https://github.com/YinsongYan/Rhythm-SNN) ⭐ 17 | 🐛 0 | 🌐 Python | 📅 2025-07-08]
 * Covariant spatio-temporal receptive fields for spiking neural networks (**Nature Communications, 2025**). \[[paper](https://www.nature.com/articles/s41467-025-63493-0)]\[[code](https://github.com/jegp/nrf) ⭐ 10 | 🐛 0 | 🌐 Python | 📅 2025-11-05]
 * Neuromorphic computing paradigms enhance robustness through spiking neural networks (**Nature Communications, 2025**). \[[paper](https://www.nature.com/articles/s41467-025-65197-x)]\[[code](https://github.com/DingJianhao/SNNEnhancingRobustness) ⭐ 8 | 🐛 1 | 🌐 Python | 📅 2025-09-02]
 * Topology optimization of random memristors for input-aware dynamic SNN (**Science Advances, 2025**). \[[paper](https://www.science.org/doi/10.1126/sciadv.ads5340)]\[[code](https://github.com/bo-wang-up/PRIME) ⭐ 5 | 🐛 0 | 🌐 Python | 📅 2025-06-30]
@@ -412,8 +412,8 @@ If you own or find some overlooked SNN papers, you can add them to this document
 
 **AAAI, ICLR, CVPR, ICML, IJCAI, ICCV, NeurIPS, TPAMI, Science Advances**
 
-* SpikingJelly: An open-source machine learning infrastructure platform for spike-based intelligence (**Science Advances 2023**). \[[paper](https://www.science.org/doi/10.1126/sciadv.adi1480)] \[[code](https://github.com/fangwei123456/spikingjelly) ⭐ 2,165 | 🐛 125 | 🌐 Python | 📅 2026-10-16]
-* Attention Spiking Neural Networks  (**TPAMI 2023**) .\[[paper](https://ieeexplore.ieee.org/abstract/document/10032591)] \[[code](https://github.com/fangwei123456/spikingjelly/pull/329) ⭐ 2,165 | 🐛 125 | 🌐 Python | 📅 2026-10-16]
+* SpikingJelly: An open-source machine learning infrastructure platform for spike-based intelligence (**Science Advances 2023**). \[[paper](https://www.science.org/doi/10.1126/sciadv.adi1480)] \[[code](https://github.com/fangwei123456/spikingjelly) ⭐ 2,166 | 🐛 125 | 🌐 Python | 📅 2026-10-17]
+* Attention Spiking Neural Networks  (**TPAMI 2023**) .\[[paper](https://ieeexplore.ieee.org/abstract/document/10032591)] \[[code](https://github.com/fangwei123456/spikingjelly/pull/329) ⭐ 2,166 | 🐛 125 | 🌐 Python | 📅 2026-10-17]
 * Spikformer: When Spiking Neural Network Meets Transformer (**ICLR 2023**) .\[[paper](https://openreview.net/forum?id=frE4fUwz_h)] \[[code](https://github.com/ZK-Zhou/spikformer) ⭐ 415 | 🐛 18 | 🌐 Python | 📅 2024-01-23]
 * Spike-driven Transformer \[[paper](https://arxiv.org/pdf/2307.01694.pdf)] \[[code](https://github.com/BICLab/Spike-Driven-Transformer) ⭐ 320 | 🐛 4 | 🌐 Python | 📅 2024-03-18]
 * Scaling Up Dynamic Graph Representation Learning via Spiking Neural Networks(**AAAI 2023**). \[[paper](https://arxiv.org/pdf/2208.10364.pdf)] \[[code](https://github.com/EdisonLeeeee/SpikeNet) ⭐ 79 | 🐛 1 | 🌐 Python | 📅 2023-09-27]
@@ -525,4 +525,4 @@ If you find this repo useful, please consider citing:
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-17._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-18._

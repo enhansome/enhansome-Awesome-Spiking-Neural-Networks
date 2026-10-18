@@ -68,7 +68,7 @@
                 "open_issues": 0,
                 "owner": "YinsongYan",
                 "repo": "Rhythm-SNN",
-                "stars": 16,
+                "stars": 17,
                 "topics": []
               },
               "first_seen": "2026-08-28T17:40:30.677Z"
@@ -1596,11 +1596,11 @@
                 "id": 228557692,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-16T18:41:05Z",
+                "last_commit": "2026-10-17T16:44:55Z",
                 "open_issues": 125,
                 "owner": "fangwei123456",
                 "repo": "spikingjelly",
-                "stars": 2165,
+                "stars": 2166,
                 "topics": [
                   "deep-learning",
                   "dvs",
@@ -1624,11 +1624,11 @@
                 "id": 228557692,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-16T18:41:05Z",
+                "last_commit": "2026-10-17T16:44:55Z",
                 "open_issues": 125,
                 "owner": "fangwei123456",
                 "repo": "spikingjelly",
-                "stars": 2165,
+                "stars": 2166,
                 "topics": [
                   "deep-learning",
                   "dvs",
@@ -1898,7 +1898,7 @@
                 "open_issues": 6,
                 "owner": "ridgerchu",
                 "repo": "SpikeGPT",
-                "stars": 911,
+                "stars": 910,
                 "topics": []
               },
               "first_seen": "2026-08-28T17:40:30.677Z"
@@ -2380,7 +2380,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-17T09:37:12.115Z",
+    "last_updated": "2026-10-18T09:50:26.354Z",
     "original_repository_info": {
       "archived": false,
       "description": "A paper list of spiking neural networks, including papers, codes, and related websites.  本仓库收集脉冲神经网络相关的顶会顶刊以及CNS论文和代码，正在持续更新中。",
@@ -2389,7 +2389,7 @@
       "language": null,
       "license": null,
       "last_commit": "2026-10-06T13:24:52Z",
-      "open_issues": 4,
+      "open_issues": 3,
       "owner": "TheBrainLab",
       "repo": "Awesome-Spiking-Neural-Networks",
       "stars": 846,
