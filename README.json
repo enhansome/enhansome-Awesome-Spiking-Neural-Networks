@@ -21,7 +21,7 @@
                 "open_issues": 1,
                 "owner": "fanliangwei",
                 "repo": "Multisynaptic-spiking-neurons",
-                "stars": 39,
+                "stars": 40,
                 "topics": []
               },
               "first_seen": "2026-08-28T17:40:30.677Z"
@@ -1517,7 +1517,7 @@
                 "open_issues": 25,
                 "owner": "ridgerchu",
                 "repo": "matmulfreellm",
-                "stars": 3094,
+                "stars": 3093,
                 "topics": [
                   "large-language-model",
                   "linear-transformer",
@@ -1596,11 +1596,11 @@
                 "id": 228557692,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-17T16:44:55Z",
+                "last_commit": "2026-10-19T09:37:38Z",
                 "open_issues": 125,
                 "owner": "fangwei123456",
                 "repo": "spikingjelly",
-                "stars": 2166,
+                "stars": 2167,
                 "topics": [
                   "deep-learning",
                   "dvs",
@@ -1624,11 +1624,11 @@
                 "id": 228557692,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-17T16:44:55Z",
+                "last_commit": "2026-10-19T09:37:38Z",
                 "open_issues": 125,
                 "owner": "fangwei123456",
                 "repo": "spikingjelly",
-                "stars": 2166,
+                "stars": 2167,
                 "topics": [
                   "deep-learning",
                   "dvs",
@@ -2380,7 +2380,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-18T09:50:26.354Z",
+    "last_updated": "2026-10-19T11:10:15.852Z",
     "original_repository_info": {
       "archived": false,
       "description": "A paper list of spiking neural networks, including papers, codes, and related websites.  本仓库收集脉冲神经网络相关的顶会顶刊以及CNS论文和代码，正在持续更新中。",
@@ -2392,7 +2392,7 @@
       "open_issues": 3,
       "owner": "TheBrainLab",
       "repo": "Awesome-Spiking-Neural-Networks",
-      "stars": 846,
+      "stars": 847,
       "topics": [
         "3rd-generation-of-artificial-neural-networks",
         "awesome",
