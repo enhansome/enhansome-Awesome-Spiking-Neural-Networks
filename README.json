@@ -1517,7 +1517,7 @@
                 "open_issues": 25,
                 "owner": "ridgerchu",
                 "repo": "matmulfreellm",
-                "stars": 3094,
+                "stars": 3095,
                 "topics": [
                   "large-language-model",
                   "linear-transformer",
@@ -1542,7 +1542,7 @@
                 "open_issues": 18,
                 "owner": "ZK-Zhou",
                 "repo": "spikformer",
-                "stars": 415,
+                "stars": 416,
                 "topics": []
               },
               "first_seen": "2026-08-28T17:40:30.677Z"
@@ -1597,10 +1597,10 @@
                 "language": "Python",
                 "license": "Apache-2.0",
                 "last_commit": "2026-10-20T09:59:17Z",
-                "open_issues": 126,
+                "open_issues": 129,
                 "owner": "fangwei123456",
                 "repo": "spikingjelly",
-                "stars": 2168,
+                "stars": 2166,
                 "topics": [
                   "deep-learning",
                   "dvs",
@@ -1625,10 +1625,10 @@
                 "language": "Python",
                 "license": "Apache-2.0",
                 "last_commit": "2026-10-20T09:59:17Z",
-                "open_issues": 126,
+                "open_issues": 129,
                 "owner": "fangwei123456",
                 "repo": "spikingjelly",
-                "stars": 2168,
+                "stars": 2166,
                 "topics": [
                   "deep-learning",
                   "dvs",
@@ -1656,7 +1656,7 @@
                 "open_issues": 18,
                 "owner": "ZK-Zhou",
                 "repo": "spikformer",
-                "stars": 415,
+                "stars": 416,
                 "topics": []
               },
               "first_seen": "2026-08-28T17:40:30.677Z"
@@ -1919,7 +1919,7 @@
                 "open_issues": 7,
                 "owner": "TheBrainLab",
                 "repo": "Spikingformer",
-                "stars": 152,
+                "stars": 153,
                 "topics": [
                   "3rd-generation-of-artificial-neural-networks",
                   "binary",
@@ -2323,7 +2323,7 @@
                 "open_issues": 6,
                 "owner": "yhhhli",
                 "repo": "SNN_Calibration",
-                "stars": 92,
+                "stars": 91,
                 "topics": []
               },
               "first_seen": "2026-08-28T17:40:30.677Z"
@@ -2380,7 +2380,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-20T10:22:14.070Z",
+    "last_updated": "2026-10-21T10:31:15.569Z",
     "original_repository_info": {
       "archived": false,
       "description": "A paper list of spiking neural networks, including papers, codes, and related websites.  本仓库收集脉冲神经网络相关的顶会顶刊以及CNS论文和代码，正在持续更新中。",
@@ -2392,7 +2392,7 @@
       "open_issues": 3,
       "owner": "TheBrainLab",
       "repo": "Awesome-Spiking-Neural-Networks",
-      "stars": 849,
+      "stars": 848,
       "topics": [
         "3rd-generation-of-artificial-neural-networks",
         "awesome",
