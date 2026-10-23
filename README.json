@@ -324,7 +324,7 @@
                 "open_issues": 1,
                 "owner": "bollossom",
                 "repo": "E-3DSNN",
-                "stars": 28,
+                "stars": 29,
                 "topics": [
                   "point-cloud",
                   "spike-driven"
@@ -558,8 +558,8 @@
                 "id": 1059903695,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2025-09-20T08:13:18Z",
-                "open_issues": 4,
+                "last_commit": "2026-10-22T14:54:49Z",
+                "open_issues": 1,
                 "owner": "ethanxyluo",
                 "repo": "SPACE",
                 "stars": 6,
@@ -761,7 +761,7 @@
                 "language": "Python",
                 "license": "AGPL-3.0",
                 "last_commit": "2025-06-30T05:52:54Z",
-                "open_issues": 10,
+                "open_issues": 11,
                 "owner": "BICLab",
                 "repo": "SpikeYOLO",
                 "stars": 259,
@@ -990,7 +990,7 @@
                 "open_issues": 0,
                 "owner": "Windere",
                 "repo": "EAS-SNN",
-                "stars": 41,
+                "stars": 42,
                 "topics": [
                   "adaptive-learning",
                   "event-based-detection",
@@ -1517,7 +1517,7 @@
                 "open_issues": 25,
                 "owner": "ridgerchu",
                 "repo": "matmulfreellm",
-                "stars": 3095,
+                "stars": 3096,
                 "topics": [
                   "large-language-model",
                   "linear-transformer",
@@ -1596,11 +1596,11 @@
                 "id": 228557692,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-22T08:07:18Z",
+                "last_commit": "2026-10-22T22:30:51Z",
                 "open_issues": 127,
                 "owner": "fangwei123456",
                 "repo": "spikingjelly",
-                "stars": 2168,
+                "stars": 2170,
                 "topics": [
                   "deep-learning",
                   "dvs",
@@ -1624,11 +1624,11 @@
                 "id": 228557692,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-22T08:07:18Z",
+                "last_commit": "2026-10-22T22:30:51Z",
                 "open_issues": 127,
                 "owner": "fangwei123456",
                 "repo": "spikingjelly",
-                "stars": 2168,
+                "stars": 2170,
                 "topics": [
                   "deep-learning",
                   "dvs",
@@ -2380,7 +2380,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-22T10:32:38.453Z",
+    "last_updated": "2026-10-23T10:26:47.226Z",
     "original_repository_info": {
       "archived": false,
       "description": "A paper list of spiking neural networks, including papers, codes, and related websites.  本仓库收集脉冲神经网络相关的顶会顶刊以及CNS论文和代码，正在持续更新中。",
