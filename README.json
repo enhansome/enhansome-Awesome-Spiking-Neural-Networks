@@ -1597,7 +1597,7 @@
                 "language": "Python",
                 "license": "Apache-2.0",
                 "last_commit": "2026-10-22T22:30:51Z",
-                "open_issues": 127,
+                "open_issues": 130,
                 "owner": "fangwei123456",
                 "repo": "spikingjelly",
                 "stars": 2170,
@@ -1625,7 +1625,7 @@
                 "language": "Python",
                 "license": "Apache-2.0",
                 "last_commit": "2026-10-22T22:30:51Z",
-                "open_issues": 127,
+                "open_issues": 130,
                 "owner": "fangwei123456",
                 "repo": "spikingjelly",
                 "stars": 2170,
@@ -2380,7 +2380,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-23T10:26:47.226Z",
+    "last_updated": "2026-10-24T09:44:50.542Z",
     "original_repository_info": {
       "archived": false,
       "description": "A paper list of spiking neural networks, including papers, codes, and related websites.  本仓库收集脉冲神经网络相关的顶会顶刊以及CNS论文和代码，正在持续更新中。",
