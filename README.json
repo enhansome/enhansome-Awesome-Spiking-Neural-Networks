@@ -737,7 +737,7 @@
                 "open_issues": 31,
                 "owner": "BrainCog-X",
                 "repo": "Brain-Cog",
-                "stars": 662,
+                "stars": 663,
                 "topics": [
                   "brain-inspired-ai",
                   "brain-inspired-computation",
@@ -864,7 +864,7 @@
                 "open_issues": 4,
                 "owner": "ridgerchu",
                 "repo": "SAD",
-                "stars": 92,
+                "stars": 93,
                 "topics": []
               },
               "first_seen": "2026-08-28T17:40:30.677Z"
@@ -1517,7 +1517,7 @@
                 "open_issues": 25,
                 "owner": "ridgerchu",
                 "repo": "matmulfreellm",
-                "stars": 3096,
+                "stars": 3097,
                 "topics": [
                   "large-language-model",
                   "linear-transformer",
@@ -1596,11 +1596,11 @@
                 "id": 228557692,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-22T22:30:51Z",
-                "open_issues": 130,
+                "last_commit": "2026-10-25T08:23:22Z",
+                "open_issues": 127,
                 "owner": "fangwei123456",
                 "repo": "spikingjelly",
-                "stars": 2170,
+                "stars": 2172,
                 "topics": [
                   "deep-learning",
                   "dvs",
@@ -1624,11 +1624,11 @@
                 "id": 228557692,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-22T22:30:51Z",
-                "open_issues": 130,
+                "last_commit": "2026-10-25T08:23:22Z",
+                "open_issues": 127,
                 "owner": "fangwei123456",
                 "repo": "spikingjelly",
-                "stars": 2170,
+                "stars": 2172,
                 "topics": [
                   "deep-learning",
                   "dvs",
@@ -1898,7 +1898,7 @@
                 "open_issues": 6,
                 "owner": "ridgerchu",
                 "repo": "SpikeGPT",
-                "stars": 910,
+                "stars": 911,
                 "topics": []
               },
               "first_seen": "2026-08-28T17:40:30.677Z"
@@ -2276,7 +2276,7 @@
                 "open_issues": 12,
                 "owner": "fangwei123456",
                 "repo": "Spike-Element-Wise-ResNet",
-                "stars": 200,
+                "stars": 201,
                 "topics": []
               },
               "first_seen": "2026-08-28T17:40:30.677Z"
@@ -2380,7 +2380,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-24T09:44:50.542Z",
+    "last_updated": "2026-10-25T10:04:22.288Z",
     "original_repository_info": {
       "archived": false,
       "description": "A paper list of spiking neural networks, including papers, codes, and related websites.  本仓库收集脉冲神经网络相关的顶会顶刊以及CNS论文和代码，正在持续更新中。",
