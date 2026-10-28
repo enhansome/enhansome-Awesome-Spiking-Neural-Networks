@@ -369,7 +369,7 @@
                 "open_issues": 0,
                 "owner": "shenshuaijie",
                 "repo": "SDN",
-                "stars": 24,
+                "stars": 25,
                 "topics": []
               },
               "first_seen": "2026-08-28T17:40:30.677Z"
@@ -527,6 +527,27 @@
             },
             {
               "node_type": "item",
+              "title": "Activity Pruning for Efficient Spiking Neural Networks (Neurips 2025). [paper",
+              "description": "putshua/Activity-Pruning-SNN",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "Code for paper \"Activity Pruning for Efficient Spiking Neural Networks\", NeurIPS 2025",
+                "homepage": null,
+                "id": 1080301738,
+                "language": "Python",
+                "license": null,
+                "last_commit": "2025-11-07T03:02:01Z",
+                "open_issues": 3,
+                "owner": "putshua",
+                "repo": "Activity-Pruning-SNN",
+                "stars": 7,
+                "topics": []
+              },
+              "first_seen": "2026-08-28T17:40:30.677Z"
+            },
+            {
+              "node_type": "item",
               "title": "Adaptive Surrogate Gradients for Sequential Reinforcement Learning in Spiking Neural Networks (Neurips 2025). [paper",
               "description": "korneelf1/SpikingCrazyflie",
               "children": [],
@@ -562,27 +583,6 @@
                 "open_issues": 1,
                 "owner": "ethanxyluo",
                 "repo": "SPACE",
-                "stars": 6,
-                "topics": []
-              },
-              "first_seen": "2026-08-28T17:40:30.677Z"
-            },
-            {
-              "node_type": "item",
-              "title": "Activity Pruning for Efficient Spiking Neural Networks (Neurips 2025). [paper",
-              "description": "putshua/Activity-Pruning-SNN",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "Code for paper \"Activity Pruning for Efficient Spiking Neural Networks\", NeurIPS 2025",
-                "homepage": null,
-                "id": 1080301738,
-                "language": "Python",
-                "license": null,
-                "last_commit": "2025-11-07T03:02:01Z",
-                "open_issues": 3,
-                "owner": "putshua",
-                "repo": "Activity-Pruning-SNN",
                 "stars": 6,
                 "topics": []
               },
@@ -737,7 +737,7 @@
                 "open_issues": 31,
                 "owner": "BrainCog-X",
                 "repo": "Brain-Cog",
-                "stars": 665,
+                "stars": 666,
                 "topics": [
                   "brain-inspired-ai",
                   "brain-inspired-computation",
@@ -764,7 +764,7 @@
                 "open_issues": 11,
                 "owner": "BICLab",
                 "repo": "SpikeYOLO",
-                "stars": 259,
+                "stars": 260,
                 "topics": [
                   "neuromorphic-computing",
                   "spiking-neural-networks"
@@ -829,6 +829,27 @@
             },
             {
               "node_type": "item",
+              "title": "Autonomous Driving with Spiking Neural Networks (NeurIPS 2024). [paper",
+              "description": "ridgerchu/SAD",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "End-to-End Autonomous Driving with Spiking Neural Networks",
+                "homepage": null,
+                "id": 807984491,
+                "language": "Python",
+                "license": "Apache-2.0",
+                "last_commit": "2025-01-13T04:32:58Z",
+                "open_issues": 4,
+                "owner": "ridgerchu",
+                "repo": "SAD",
+                "stars": 94,
+                "topics": []
+              },
+              "first_seen": "2026-08-28T17:40:30.677Z"
+            },
+            {
+              "node_type": "item",
               "title": "Advancing Spiking Neural Networks for Sequential Modeling with Central Pattern Generators (NeurIPS 2024). [paper",
               "description": "microsoft/SeqSNN",
               "children": [],
@@ -844,27 +865,6 @@
                 "owner": "microsoft",
                 "repo": "SeqSNN",
                 "stars": 94,
-                "topics": []
-              },
-              "first_seen": "2026-08-28T17:40:30.677Z"
-            },
-            {
-              "node_type": "item",
-              "title": "Autonomous Driving with Spiking Neural Networks (NeurIPS 2024). [paper",
-              "description": "ridgerchu/SAD",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "End-to-End Autonomous Driving with Spiking Neural Networks",
-                "homepage": null,
-                "id": 807984491,
-                "language": "Python",
-                "license": "Apache-2.0",
-                "last_commit": "2025-01-13T04:32:58Z",
-                "open_issues": 4,
-                "owner": "ridgerchu",
-                "repo": "SAD",
-                "stars": 93,
                 "topics": []
               },
               "first_seen": "2026-08-28T17:40:30.677Z"
@@ -1136,6 +1136,27 @@
             },
             {
               "node_type": "item",
+              "title": "Towards High-performance Spiking Transformers from ANN to SNN Conversion (ACM MM 2024). [paper",
+              "description": "h-z-h-cell/Transformer-to-SNN-ECMT",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": null,
+                "homepage": null,
+                "id": 838129281,
+                "language": "Python",
+                "license": null,
+                "last_commit": "2025-02-18T11:27:54Z",
+                "open_issues": 5,
+                "owner": "h-z-h-cell",
+                "repo": "Transformer-to-SNN-ECMT",
+                "stars": 21,
+                "topics": []
+              },
+              "first_seen": "2026-08-28T17:40:30.677Z"
+            },
+            {
+              "node_type": "item",
               "title": "Advancing Training Efficiency of Deep Spiking Neural Networks through Rate-based Backpropagation (NeurIPS 2024). [paper",
               "description": "Tab-ct/rate-based-backpropagation",
               "children": [],
@@ -1155,27 +1176,6 @@
                   "spiking-neural-networks",
                   "training-efficiency"
                 ]
-              },
-              "first_seen": "2026-08-28T17:40:30.677Z"
-            },
-            {
-              "node_type": "item",
-              "title": "Towards High-performance Spiking Transformers from ANN to SNN Conversion (ACM MM 2024). [paper",
-              "description": "h-z-h-cell/Transformer-to-SNN-ECMT",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": null,
-                "homepage": null,
-                "id": 838129281,
-                "language": "Python",
-                "license": null,
-                "last_commit": "2025-02-18T11:27:54Z",
-                "open_issues": 5,
-                "owner": "h-z-h-cell",
-                "repo": "Transformer-to-SNN-ECMT",
-                "stars": 20,
-                "topics": []
               },
               "first_seen": "2026-08-28T17:40:30.677Z"
             },
@@ -1514,10 +1514,10 @@
                 "language": "Python",
                 "license": "Apache-2.0",
                 "last_commit": "2026-09-06T08:13:51Z",
-                "open_issues": 25,
+                "open_issues": 24,
                 "owner": "ridgerchu",
                 "repo": "matmulfreellm",
-                "stars": 3098,
+                "stars": 3100,
                 "topics": [
                   "large-language-model",
                   "linear-transformer",
@@ -1596,11 +1596,11 @@
                 "id": 228557692,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-27T04:38:30Z",
-                "open_issues": 127,
+                "last_commit": "2026-10-28T03:11:14Z",
+                "open_issues": 129,
                 "owner": "fangwei123456",
                 "repo": "spikingjelly",
-                "stars": 2175,
+                "stars": 2177,
                 "topics": [
                   "deep-learning",
                   "dvs",
@@ -1624,11 +1624,11 @@
                 "id": 228557692,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-27T04:38:30Z",
-                "open_issues": 127,
+                "last_commit": "2026-10-28T03:11:14Z",
+                "open_issues": 129,
                 "owner": "fangwei123456",
                 "repo": "spikingjelly",
-                "stars": 2175,
+                "stars": 2177,
                 "topics": [
                   "deep-learning",
                   "dvs",
@@ -2038,7 +2038,7 @@
                 "open_issues": 4,
                 "owner": "pkuxmq",
                 "repo": "OTTT-SNN",
-                "stars": 71,
+                "stars": 72,
                 "topics": []
               },
               "first_seen": "2026-08-28T17:40:30.677Z"
@@ -2344,7 +2344,7 @@
                 "open_issues": 2,
                 "owner": "Yanqi-Chen",
                 "repo": "Gradient-Rewiring",
-                "stars": 32,
+                "stars": 33,
                 "topics": []
               },
               "first_seen": "2026-08-28T17:40:30.677Z"
@@ -2380,7 +2380,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-27T10:52:06.625Z",
+    "last_updated": "2026-10-28T11:33:14.477Z",
     "original_repository_info": {
       "archived": false,
       "description": "A paper list of spiking neural networks, including papers, codes, and related websites.  本仓库收集脉冲神经网络相关的顶会顶刊以及CNS论文和代码，正在持续更新中。",
