@@ -737,7 +737,7 @@
                 "open_issues": 31,
                 "owner": "BrainCog-X",
                 "repo": "Brain-Cog",
-                "stars": 666,
+                "stars": 668,
                 "topics": [
                   "brain-inspired-ai",
                   "brain-inspired-computation",
@@ -764,7 +764,7 @@
                 "open_issues": 11,
                 "owner": "BICLab",
                 "repo": "SpikeYOLO",
-                "stars": 260,
+                "stars": 261,
                 "topics": [
                   "neuromorphic-computing",
                   "spiking-neural-networks"
@@ -1596,11 +1596,11 @@
                 "id": 228557692,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-29T07:44:26Z",
-                "open_issues": 129,
+                "last_commit": "2026-10-30T10:13:12Z",
+                "open_issues": 127,
                 "owner": "fangwei123456",
                 "repo": "spikingjelly",
-                "stars": 2178,
+                "stars": 2177,
                 "topics": [
                   "deep-learning",
                   "dvs",
@@ -1624,11 +1624,11 @@
                 "id": 228557692,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-29T07:44:26Z",
-                "open_issues": 129,
+                "last_commit": "2026-10-30T10:13:12Z",
+                "open_issues": 127,
                 "owner": "fangwei123456",
                 "repo": "spikingjelly",
-                "stars": 2178,
+                "stars": 2177,
                 "topics": [
                   "deep-learning",
                   "dvs",
@@ -2380,7 +2380,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-29T11:42:06.146Z",
+    "last_updated": "2026-10-30T11:33:35.557Z",
     "original_repository_info": {
       "archived": false,
       "description": "A paper list of spiking neural networks, including papers, codes, and related websites.  本仓库收集脉冲神经网络相关的顶会顶刊以及CNS论文和代码，正在持续更新中。",
@@ -2392,7 +2392,7 @@
       "open_issues": 3,
       "owner": "TheBrainLab",
       "repo": "Awesome-Spiking-Neural-Networks",
-      "stars": 850,
+      "stars": 851,
       "topics": [
         "3rd-generation-of-artificial-neural-networks",
         "awesome",
