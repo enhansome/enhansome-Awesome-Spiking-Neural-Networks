@@ -843,7 +843,7 @@
                 "open_issues": 4,
                 "owner": "ridgerchu",
                 "repo": "SAD",
-                "stars": 95,
+                "stars": 96,
                 "topics": []
               },
               "first_seen": "2026-08-28T17:40:30.677Z"
@@ -1517,7 +1517,7 @@
                 "open_issues": 24,
                 "owner": "ridgerchu",
                 "repo": "matmulfreellm",
-                "stars": 3100,
+                "stars": 3102,
                 "topics": [
                   "large-language-model",
                   "linear-transformer",
@@ -1542,7 +1542,7 @@
                 "open_issues": 18,
                 "owner": "ZK-Zhou",
                 "repo": "spikformer",
-                "stars": 418,
+                "stars": 419,
                 "topics": []
               },
               "first_seen": "2026-08-28T17:40:30.677Z"
@@ -1656,7 +1656,7 @@
                 "open_issues": 18,
                 "owner": "ZK-Zhou",
                 "repo": "spikformer",
-                "stars": 418,
+                "stars": 419,
                 "topics": []
               },
               "first_seen": "2026-08-28T17:40:30.677Z"
@@ -2380,7 +2380,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-30T11:33:35.557Z",
+    "last_updated": "2026-10-31T11:08:54.832Z",
     "original_repository_info": {
       "archived": false,
       "description": "A paper list of spiking neural networks, including papers, codes, and related websites.  本仓库收集脉冲神经网络相关的顶会顶刊以及CNS论文和代码，正在持续更新中。",
