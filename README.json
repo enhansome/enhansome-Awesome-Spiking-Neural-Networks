@@ -764,7 +764,7 @@
                 "open_issues": 11,
                 "owner": "BICLab",
                 "repo": "SpikeYOLO",
-                "stars": 261,
+                "stars": 263,
                 "topics": [
                   "neuromorphic-computing",
                   "spiking-neural-networks"
@@ -788,7 +788,7 @@
                 "open_issues": 1,
                 "owner": "BICLab",
                 "repo": "Spike-Driven-Transformer-V2",
-                "stars": 235,
+                "stars": 236,
                 "topics": [
                   "neuromorphic-computing",
                   "neuromorphic-hardware",
@@ -1150,7 +1150,7 @@
                 "open_issues": 5,
                 "owner": "h-z-h-cell",
                 "repo": "Transformer-to-SNN-ECMT",
-                "stars": 21,
+                "stars": 22,
                 "topics": []
               },
               "first_seen": "2026-08-28T17:40:30.677Z"
@@ -1898,7 +1898,7 @@
                 "open_issues": 6,
                 "owner": "ridgerchu",
                 "repo": "SpikeGPT",
-                "stars": 911,
+                "stars": 912,
                 "topics": []
               },
               "first_seen": "2026-08-28T17:40:30.677Z"
@@ -2380,7 +2380,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-01T11:59:14.133Z",
+    "last_updated": "2026-11-02T13:47:09.402Z",
     "original_repository_info": {
       "archived": false,
       "description": "A paper list of spiking neural networks, including papers, codes, and related websites.  本仓库收集脉冲神经网络相关的顶会顶刊以及CNS论文和代码，正在持续更新中。",

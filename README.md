@@ -315,8 +315,8 @@ If you own or find some overlooked SNN papers, you can add them to this document
 **NeurIPS, ACM MM, ECCV, AAAI, ICLR, Frontiers in Neuroscience, CVPR, ICML, IJCAI**
 
 * TIM: An Efficient Temporal Interaction Module for Spiking Transformer (**IJCAI 2024**). \[[paper](https://arxiv.org/pdf/2401.11687)] \[[code](https://github.com/BrainCog-X/Brain-Cog/tree/main/examples/TIM) ⭐ 668 | 🐛 31 | 🌐 Python | 📅 2025-11-06]
-* Integer-Valued Training and Spike-Driven Inference Spiking Neural Network for High-performance and Energy-efficient Object Detection (**ECCV 2024**). \[[paper](https://arxiv.org/pdf/2407.20708)] \[[code](https://github.com/BICLab/SpikeYOLO) ⭐ 261 | 🐛 11 | 🌐 Python | 📅 2025-06-30]
-* Spike-driven Transformer V2: Meta Spiking Neural Network Architecture Inspiring the Design of Next-generation Neuromorphic Chips (**ICLR 2024**). \[[paper](https://openreview.net/pdf?id=1SIBN5Xyw7)] \[[code](https://github.com/BICLab/Spike-Driven-Transformer-V2) ⭐ 235 | 🐛 1 | 🌐 Python | 📅 2024-05-10]
+* Integer-Valued Training and Spike-Driven Inference Spiking Neural Network for High-performance and Energy-efficient Object Detection (**ECCV 2024**). \[[paper](https://arxiv.org/pdf/2407.20708)] \[[code](https://github.com/BICLab/SpikeYOLO) ⭐ 263 | 🐛 11 | 🌐 Python | 📅 2025-06-30]
+* Spike-driven Transformer V2: Meta Spiking Neural Network Architecture Inspiring the Design of Next-generation Neuromorphic Chips (**ICLR 2024**). \[[paper](https://openreview.net/pdf?id=1SIBN5Xyw7)] \[[code](https://github.com/BICLab/Spike-Driven-Transformer-V2) ⭐ 236 | 🐛 1 | 🌐 Python | 📅 2024-05-10]
 * QKFormer: Hierarchical Spiking Transformer using Q-K Attention (**NeurIPS 2024**). \[[paper](https://openreview.net/pdf?id=AVd7DpiooC)] \[[code](https://github.com/zhouchenlin2096/QKFormer) ⭐ 150 | 🐛 8 | 🌐 Python | 📅 2026-05-25]
 * Autonomous Driving with Spiking Neural Networks (**NeurIPS 2024**). \[[paper](https://openreview.net/pdf?id=95VyH4VxN9)] \[[code](https://github.com/ridgerchu/SAD) ⭐ 96 | 🐛 4 | 🌐 Python | 📅 2025-01-13]
 * Advancing Spiking Neural Networks for Sequential Modeling with Central Pattern Generators (**NeurIPS 2024**). \[[paper](https://arxiv.org/abs/2405.14362)] \[[code](https://github.com/microsoft/SeqSNN) ⭐ 95 | 🐛 13 | 🌐 Python | 📅 2026-02-08]
@@ -332,7 +332,7 @@ If you own or find some overlooked SNN papers, you can add them to this document
 * Ternary Spike: Learning Ternary Spikes for Spiking Neural Networks (**AAAI 2024**).  \[[paper](https://arxiv.org/pdf/2312.06372.pdf)] \[[code](https://github.com/yfguo91/Ternary-Spike) ⭐ 31 | 🐛 4 | 🌐 Python | 📅 2023-12-14]
 * SpikingBERT: Distilling BERT to Train Spiking Language Models Using Implicit Differentiation (**AAAI 2024**).  \[[paper](https://arxiv.org/pdf/2308.10873.pdf)] \[[code](https://github.com/NeuroCompLab-psu/SpikingBERT) ⭐ 29 | 🐛 4 | 🌐 Python | 📅 2024-02-21]
 * TC-LIF: A Two-Compartment Spiking Neuron Model for Long-Term Sequential Modelling (**AAAI 2024**).  \[[paper](https://arxiv.org/pdf/2308.13250.pdf)] \[[code](https://github.com/ZhangShimin1/TC-LIF) ⭐ 23 | 🐛 1 | 🌐 Python | 📅 2024-08-23]
-* Towards High-performance Spiking Transformers from ANN to SNN Conversion (**ACM MM 2024**). \[[paper](https://dl.acm.org/doi/10.1145/3664647.3680620)]  \[[code](https://github.com/h-z-h-cell/Transformer-to-SNN-ECMT) ⭐ 21 | 🐛 5 | 🌐 Python | 📅 2025-02-18]
+* Towards High-performance Spiking Transformers from ANN to SNN Conversion (**ACM MM 2024**). \[[paper](https://dl.acm.org/doi/10.1145/3664647.3680620)]  \[[code](https://github.com/h-z-h-cell/Transformer-to-SNN-ECMT) ⭐ 22 | 🐛 5 | 🌐 Python | 📅 2025-02-18]
 * Advancing Training Efficiency of Deep Spiking Neural Networks through Rate-based Backpropagation (**NeurIPS 2024**). \[[paper](https://arxiv.org/abs/2410.11488)] \[[code](https://github.com/Tab-ct/rate-based-backpropagation) ⭐ 20 | 🐛 0 | 🌐 Python | 📅 2025-01-16]
 * Memory-Efficient Reversible Spiking Neural Networks (**AAAI 2024**).  \[[paper](https://arxiv.org/pdf/2312.07922.pdf)] \[[code](https://github.com/mi804/RevSNN) ⭐ 20 | 🐛 0 | 🌐 Python | 📅 2023-12-14]
 * LMUFormer: Low Complexity Yet Powerful Spiking Model With Legendre Memory Units (**ICLR 2024**). \[[paper](https://arxiv.org/pdf/2402.04882.pdf)] \[[code](https://github.com/zeyuliu1037/LMUFormer) ⭐ 14 | 🐛 1 | 🌐 Jupyter Notebook | 📅 2024-09-20]
@@ -525,4 +525,4 @@ If you find this repo useful, please consider citing:
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-01._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-02._
