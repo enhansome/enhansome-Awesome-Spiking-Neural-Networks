@@ -1517,7 +1517,7 @@
                 "open_issues": 24,
                 "owner": "ridgerchu",
                 "repo": "matmulfreellm",
-                "stars": 3102,
+                "stars": 3101,
                 "topics": [
                   "large-language-model",
                   "linear-transformer",
@@ -1597,10 +1597,10 @@
                 "language": "Python",
                 "license": "Apache-2.0",
                 "last_commit": "2026-10-31T15:52:07Z",
-                "open_issues": 126,
+                "open_issues": 129,
                 "owner": "fangwei123456",
                 "repo": "spikingjelly",
-                "stars": 2178,
+                "stars": 2179,
                 "topics": [
                   "deep-learning",
                   "dvs",
@@ -1625,10 +1625,10 @@
                 "language": "Python",
                 "license": "Apache-2.0",
                 "last_commit": "2026-10-31T15:52:07Z",
-                "open_issues": 126,
+                "open_issues": 129,
                 "owner": "fangwei123456",
                 "repo": "spikingjelly",
-                "stars": 2178,
+                "stars": 2179,
                 "topics": [
                   "deep-learning",
                   "dvs",
@@ -2380,7 +2380,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-02T13:47:09.402Z",
+    "last_updated": "2026-11-03T12:57:47.197Z",
     "original_repository_info": {
       "archived": false,
       "description": "A paper list of spiking neural networks, including papers, codes, and related websites.  本仓库收集脉冲神经网络相关的顶会顶刊以及CNS论文和代码，正在持续更新中。",
@@ -2392,7 +2392,7 @@
       "open_issues": 3,
       "owner": "TheBrainLab",
       "repo": "Awesome-Spiking-Neural-Networks",
-      "stars": 851,
+      "stars": 852,
       "topics": [
         "3rd-generation-of-artificial-neural-networks",
         "awesome",
