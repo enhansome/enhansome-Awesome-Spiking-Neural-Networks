@@ -478,7 +478,7 @@
                 "open_issues": 0,
                 "owner": "shen-aoyu",
                 "repo": "CREST",
-                "stars": 12,
+                "stars": 13,
                 "topics": []
               },
               "first_seen": "2026-08-28T17:40:30.677Z"
@@ -737,7 +737,7 @@
                 "open_issues": 31,
                 "owner": "BrainCog-X",
                 "repo": "Brain-Cog",
-                "stars": 668,
+                "stars": 670,
                 "topics": [
                   "brain-inspired-ai",
                   "brain-inspired-computation",
@@ -788,7 +788,7 @@
                 "open_issues": 1,
                 "owner": "BICLab",
                 "repo": "Spike-Driven-Transformer-V2",
-                "stars": 236,
+                "stars": 237,
                 "topics": [
                   "neuromorphic-computing",
                   "neuromorphic-hardware",
@@ -1596,8 +1596,8 @@
                 "id": 228557692,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-31T15:52:07Z",
-                "open_issues": 129,
+                "last_commit": "2026-11-04T03:19:31Z",
+                "open_issues": 126,
                 "owner": "fangwei123456",
                 "repo": "spikingjelly",
                 "stars": 2179,
@@ -1624,8 +1624,8 @@
                 "id": 228557692,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-31T15:52:07Z",
-                "open_issues": 129,
+                "last_commit": "2026-11-04T03:19:31Z",
+                "open_issues": 126,
                 "owner": "fangwei123456",
                 "repo": "spikingjelly",
                 "stars": 2179,
@@ -2380,7 +2380,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-03T12:57:47.197Z",
+    "last_updated": "2026-11-04T13:13:29.979Z",
     "original_repository_info": {
       "archived": false,
       "description": "A paper list of spiking neural networks, including papers, codes, and related websites.  本仓库收集脉冲神经网络相关的顶会顶刊以及CNS论文和代码，正在持续更新中。",
@@ -2392,7 +2392,7 @@
       "open_issues": 3,
       "owner": "TheBrainLab",
       "repo": "Awesome-Spiking-Neural-Networks",
-      "stars": 852,
+      "stars": 853,
       "topics": [
         "3rd-generation-of-artificial-neural-networks",
         "awesome",
