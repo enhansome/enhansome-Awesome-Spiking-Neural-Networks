@@ -13,6 +13,8 @@ If you own or find some overlooked SNN papers, you can add them to this document
 
 \[2026.10.06] Update SNN-related papers in ICML 2026 (34 papers).
 
+\[2026.11.05] Update SNN-related papers in ACM MM 2026, Nature 2026, Science 2026.
+
 </details>
 
 <details>
@@ -61,10 +63,41 @@ If you own or find some overlooked SNN papers, you can add them to this document
 
 ### 2026
 
-**Nature, Science, Cell**
+**Nature, Science**
 
-**AAAI, ICLR, ICML**
+* Algorithm–hardware co-design of neuromorphic networks with dual memory pathways (**Nature Machine Intelligence, 2026**). \[[paper](https://www.nature.com/articles/s42256-026-01255-3)] \[[code](https://github.com/sunpengfei1122/Dual_memory_pathways) ⭐ 18 | 🐛 0 | 🌐 FIRRTL | 📅 2026-09-18]
+* An end-to-end memristive hardware system based on single-spike coding for human–machine interfaces (**Nature Electronics, 2026**). \[[paper](https://www.nature.com/articles/s41928-025-01544-6)] \[[code](https://github.com/pekjuntiw/single-spiking-hmi) ⭐ 1 | 🐛 0 | 🌐 Python | 📅 2025-12-16]
+* Model-agnostic linear-memory online learning in spiking neural networks (**Nature Communications, 2026**). \[[paper](https://www.nature.com/articles/s41467-026-68453-w)] \[[code](https://github.com/chaobrain/braintrace-snn-experiments) ⭐ 1 | 🐛 0 | 🌐 Python | 📅 2026-06-28]
+* Spike-based alignment learning solves the weight transport problem (**Nature Communications, 2026**). \[[paper](https://www.nature.com/articles/s41467-026-74460-8)] \[[code](https://github.com/unibe-cns/sal-code) ⚠️ Archived]
+* Spiking neural network decoders of finger forces from high-density intramuscular microelectrode arrays (**Nature Communications, 2026**). \[[paper](https://www.nature.com/articles/s41467-026-74243-1)] \[[code](https://github.com/FarahBaracat/snn-fingerforce-decoding) ⭐ 0 | 🐛 0 | 🌐 Jupyter Notebook | 📅 2026-04-24]
+* A spiking neural network-in-logic architecture based on reconfigurable molybdenum disulfide dual-gate transistors with ferroelectric gating (**Nature Electronics, 2026**). \[[paper](https://www.nature.com/articles/s41928-026-01706-0)]
+* Spiking neural networks with fatigue spike-timing-dependent plasticity learning using hybrid memristor arrays (**Nature Electronics, 2026**). \[[paper](https://www.nature.com/articles/s41928-025-01554-4)]
+* Printed MoS2 memristive nanosheet networks for spiking neurons with multi-order complexity (**Nature Nanotechnology, 2026**). \[[paper](https://www.nature.com/articles/s41565-026-02149-6)]
+* Temporal prediction captures retinal spiking responses across animal species (**Nature Communications, 2026**). \[[paper](https://www.nature.com/articles/s41467-026-77399-y)]
+* High encoding-sensitivity vision sensor with complementary nonlinear neuromorphic computing (**Nature Communications, 2026**). \[[paper](https://www.nature.com/articles/s41467-026-74055-3)]
+* Accelerating spiking neural networks with photonic reconfigurable devices (**Nature Communications, 2026**). \[[paper](https://www.nature.com/articles/s41467-026-72119-y)]
+* Nanoscale exchange-bias magnetic tunnel junctions enabled memristive synapse and leaky-integrate-fire neuron for neuromorphic computing (**Nature Communications, 2026**). \[[paper](https://www.nature.com/articles/s41467-026-70802-8)]
+* Brain-inspired synaptic transistors for in-situ spiking reinforcement learning with eligibility trace (**Nature Communications, 2026**). \[[paper](https://www.nature.com/articles/s41467-026-69898-9)]
+* Bioinspired spiking architecture enables energy constrained touch encoding (**Nature Communications, 2026**). \[[paper](https://www.nature.com/articles/s41467-026-68858-7)] \[[code](https://codeocean.com/capsule/1018585/tree)]
+* Viscoelastic nanomechanical devices for neuromorphic information processing (**Science Advances, 2026**). \[[paper](https://www.science.org/doi/10.1126/sciadv.aeg9893)]
+* Artificial sparse neuron dendrites for visual information inference (**Science Advances, 2026**). \[[paper](https://www.science.org/doi/10.1126/sciadv.aec9948)]
+* Neuronal heterogeneity of normalization strength in a circuit model (**Science Advances, 2026**). \[[paper](https://www.science.org/doi/10.1126/sciadv.adv9396)]
 
+**AAAI, ICLR, ICML, ACM MM**
+
+* Ge²mS-T: Multi-Dimensional Grouping for Ultra-High Energy Efficiency in Spiking Transformer (**ACM MM 2026**). \[[paper](https://arxiv.org/abs/2604.08894)] \[[code](https://github.com/hzc1208/Ge2mST) ⭐ 0 | 🐛 0 | 🌐 Python | 📅 2026-08-06]
+* Efficient Spiking Neural Networks with Autapse-Enhanced Temporal Coding (**ACM MM 2026**). \[[program](https://2026.acmmm.org/site/technical-programme.html#entry-session-54)]
+* Spike-Driven LiDAR Point Cloud Compression via Just Recognizable Distortion (**ACM MM 2026**). \[[program](https://2026.acmmm.org/site/technical-programme.html#entry-session-58)]
+* Deep-TTFS: Scaling Time-to-First-Spike Neural Networks to ImageNet with High-Fidelity Temporal Fusion (**ACM MM 2026**). \[[program](https://2026.acmmm.org/site/technical-programme.html#entry-session-58)]
+* Hierarchical Temporal Residual Dynamics Network for Spiking Object Detectors (**ACM MM 2026**). \[[program](https://2026.acmmm.org/site/technical-programme.html#entry-session-58)]
+* Neural Architecture Search of Time-to-First-Spike-Coded Spiking Neural Networks for Efficient Eye-based Emotion Recognition (**ACM MM 2026**). \[[paper](https://arxiv.org/abs/2512.02459)]
+* Spiking Neural Network with Mixture of Heterogeneous Enhancement Experts for Underwater Object Detection (**ACM MM 2026**). \[[program](https://2026.acmmm.org/site/technical-programme.html#entry-session-234)]
+* SpikingGait: A Structural-to-Volumetric Spike-Driven Backbone for Gait Recognition (**ACM MM 2026**). \[[program](https://2026.acmmm.org/site/technical-programme.html#entry-session-234)]
+* ShiftLIF: Efficient Multi-Level Spiking Neurons with Power-of-Two Quantization (**ACM MM 2026**). \[[paper](https://arxiv.org/abs/2605.01866)] \[[code](https://github.com/Kaiwen-Tang/ShiftLIF)]
+* An Efficient Structural Pruning for Spiking Neural Networks by Balancing Accuracy and Sparsification (**ACM MM 2026**). \[[program](https://2026.acmmm.org/site/technical-programme.html#entry-session-75)]
+* SpikeGeo: Dual-Guidance Enhanced Spiking Neural Network for Energy-Efficient Cross-View Geo-Localization (**ACM MM 2026**). \[[program](https://2026.acmmm.org/site/technical-programme.html#entry-session-80)]
+* Towards Energy Efficient Spiking Neural Networks: a Homeostatic Metabolic Pruning Framework (**ACM MM 2026**). \[[program](https://2026.acmmm.org/site/technical-programme.html#entry-session-85)]
+* Adaptive Sparse Structural Evolution for Continual Learning in Spiking Neural Networks (**ACM MM 2026**). \[[program](https://2026.acmmm.org/site/technical-programme.html#entry-session-85)]
 * Spike-HTR: Spiking Neural Transformer for Handwritten Text Recognition (**ICML 2026**). \[[paper](https://icml.cc/virtual/2026/poster/66461)]
 * Spik4lite: Refactoring Neuromorphic Sparsity for Efficient Spiking Neural Networks on Commodity Edge Devices (**ICML 2026**). \[[paper](https://icml.cc/virtual/2026/poster/63522)]
 * A$^2$SG: Adaptive and Asymmetric Surrogate Gradients for Training Deep Spiking Neural Networks (**ICML 2026**). \[[paper](https://icml.cc/virtual/2026/poster/66327)]
@@ -323,7 +356,7 @@ If you own or find some overlooked SNN papers, you can add them to this document
 * SpikingResformer: Bridging ResNet and Vision Transformer in Spiking Neural Networks (**CVPR 2024**). \[[paper](https://arxiv.org/abs/2403.14302)] \[[code](https://github.com/xyshi2000/SpikingResformer) ⭐ 80 | 🐛 4 | 🌐 Python | 📅 2024-12-19]
 * Learning a Spiking Neural Network for Efficient Image Deraining (**IJCAI 2024**). \[[code](https://github.com/MingTian99/ESDNet) ⭐ 79 | 🐛 9 | 🌐 Python | 📅 2025-07-07]
 * Learning Delays in Spiking Neural Networks using Dilated Convolutions with Learnable Spacings (**ICLR 2024**). \[[paper](https://openreview.net/pdf?id=4r2ybzJnmN)] \[[code](https://github.com/Thvnvtos/SNN-delays) ⭐ 71 | 🐛 0 | 🌐 Python | 📅 2024-04-24]
-* Hebbian Learning based Orthogonal Projection for Continual Learning of Spiking Neural Networks (**ICLR 2024**). \[[paper](https://arxiv.org/pdf/2402.11984.pdf)] \[[code](https://github.com/pkuxmq/HLOP-SNN) ⭐ 45 | 🐛 0 | 🌐 Python | 📅 2024-02-20]
+* Hebbian Learning based Orthogonal Projection for Continual Learning of Spiking Neural Networks (**ICLR 2024**). \[[paper](https://arxiv.org/pdf/2402.11984.pdf)] \[[code](https://github.com/pkuxmq/HLOP-SNN) ⭐ 44 | 🐛 0 | 🌐 Python | 📅 2024-02-20]
 * Spiking Wavelet Transformer (**ECCV 2024**). \[[paper](https://arxiv.org/pdf/2403.11138)] \[[code](https://github.com/bic-L/Spiking-Wavelet-Transformer) ⭐ 43 | 🐛 0 | 🌐 Python | 📅 2025-07-13]
 * EAS-SNN: End-to-End Adaptive Sampling and Representation for Event-based Detection with Recurrent Spiking Neural Networks (**ECCV 2024**). \[[paper](https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/07766.pdf)] \[[code](https://github.com/Windere/EAS-SNN) ⭐ 42 | 🐛 0 | 🌐 Python | 📅 2024-10-25]
 * SFOD: Spiking Fusion Object Detector (**CVPR 2024**). \[[paper](https://arxiv.org/pdf/2403.15192)] \[[code](https://github.com/yimeng-fan/SFOD) ⭐ 40 | 🐛 6 | 🌐 Python | 📅 2024-03-11]
@@ -412,8 +445,8 @@ If you own or find some overlooked SNN papers, you can add them to this document
 
 **AAAI, ICLR, CVPR, ICML, IJCAI, ICCV, NeurIPS, TPAMI, Science Advances**
 
-* SpikingJelly: An open-source machine learning infrastructure platform for spike-based intelligence (**Science Advances 2023**). \[[paper](https://www.science.org/doi/10.1126/sciadv.adi1480)] \[[code](https://github.com/fangwei123456/spikingjelly) ⭐ 2,179 | 🐛 126 | 🌐 Python | 📅 2026-11-04]
-* Attention Spiking Neural Networks  (**TPAMI 2023**) .\[[paper](https://ieeexplore.ieee.org/abstract/document/10032591)] \[[code](https://github.com/fangwei123456/spikingjelly/pull/329) ⭐ 2,179 | 🐛 126 | 🌐 Python | 📅 2026-11-04]
+* SpikingJelly: An open-source machine learning infrastructure platform for spike-based intelligence (**Science Advances 2023**). \[[paper](https://www.science.org/doi/10.1126/sciadv.adi1480)] \[[code](https://github.com/fangwei123456/spikingjelly) ⭐ 2,179 | 🐛 126 | 🌐 Python | 📅 2026-11-05]
+* Attention Spiking Neural Networks  (**TPAMI 2023**) .\[[paper](https://ieeexplore.ieee.org/abstract/document/10032591)] \[[code](https://github.com/fangwei123456/spikingjelly/pull/329) ⭐ 2,179 | 🐛 126 | 🌐 Python | 📅 2026-11-05]
 * Spikformer: When Spiking Neural Network Meets Transformer (**ICLR 2023**) .\[[paper](https://openreview.net/forum?id=frE4fUwz_h)] \[[code](https://github.com/ZK-Zhou/spikformer) ⭐ 419 | 🐛 18 | 🌐 Python | 📅 2024-01-23]
 * Spike-driven Transformer \[[paper](https://arxiv.org/pdf/2307.01694.pdf)] \[[code](https://github.com/BICLab/Spike-Driven-Transformer) ⭐ 320 | 🐛 4 | 🌐 Python | 📅 2024-03-18]
 * Scaling Up Dynamic Graph Representation Learning via Spiking Neural Networks(**AAAI 2023**). \[[paper](https://arxiv.org/pdf/2208.10364.pdf)] \[[code](https://github.com/EdisonLeeeee/SpikeNet) ⭐ 79 | 🐛 1 | 🌐 Python | 📅 2023-09-27]
@@ -525,4 +558,4 @@ If you find this repo useful, please consider citing:
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-04._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-05._

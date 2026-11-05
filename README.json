@@ -7,6 +7,139 @@
           "children": [
             {
               "node_type": "item",
+              "title": "Algorithm–hardware co-design of neuromorphic networks with dual memory pathways (Nature Machine Intelligence, 2026). [paper",
+              "description": "sunpengfei1122/Dual_memory_pathways",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "Code for: Algorithm-hardware co-design of neuromorphic networks with dual memory pathways",
+                "homepage": "https://www.nature.com/articles/s42256-026-01255-3",
+                "id": 1112321330,
+                "language": "FIRRTL",
+                "license": null,
+                "last_commit": "2026-09-18T06:09:22Z",
+                "open_issues": 0,
+                "owner": "sunpengfei1122",
+                "repo": "Dual_memory_pathways",
+                "stars": 18,
+                "topics": []
+              },
+              "first_seen": "2026-11-05T13:27:06.858Z"
+            },
+            {
+              "node_type": "item",
+              "title": "An end-to-end memristive hardware system based on single-spike coding for human–machine interfaces (Nature Electronics, 2026). [paper",
+              "description": "pekjuntiw/single-spiking-hmi",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": null,
+                "homepage": null,
+                "id": 1002507741,
+                "language": "Python",
+                "license": "MIT",
+                "last_commit": "2025-12-16T09:18:46Z",
+                "open_issues": 0,
+                "owner": "pekjuntiw",
+                "repo": "single-spiking-hmi",
+                "stars": 1,
+                "topics": []
+              },
+              "first_seen": "2026-11-05T13:27:06.858Z"
+            },
+            {
+              "node_type": "item",
+              "title": "Model-agnostic linear-memory online learning in spiking neural networks (Nature Communications, 2026). [paper",
+              "description": "chaobrain/braintrace-snn-experiments",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": null,
+                "homepage": null,
+                "id": 816668341,
+                "language": "Python",
+                "license": null,
+                "last_commit": "2026-06-28T02:17:42Z",
+                "open_issues": 0,
+                "owner": "chaobrain",
+                "repo": "braintrace-snn-experiments",
+                "stars": 1,
+                "topics": []
+              },
+              "first_seen": "2026-11-05T13:27:06.858Z"
+            },
+            {
+              "node_type": "item",
+              "title": "Spike-based alignment learning solves the weight transport problem (Nature Communications, 2026). [paper",
+              "description": "unibe-cns/sal-code",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "description": "Official code repository for the paper \"Weight transport through spike timing for robust local gradients\", Gierlich et al., 2025",
+                "homepage": null,
+                "id": 939504177,
+                "language": "Python",
+                "license": "MIT",
+                "last_commit": "2026-09-10T14:12:57Z",
+                "open_issues": 3,
+                "owner": "unibe-cns",
+                "repo": "sal-code",
+                "stars": 0,
+                "topics": []
+              },
+              "first_seen": "2026-11-05T13:27:06.858Z"
+            },
+            {
+              "node_type": "item",
+              "title": "Spiking neural network decoders of finger forces from high-density intramuscular microelectrode arrays (Nature Communications, 2026). [paper",
+              "description": "FarahBaracat/snn-fingerforce-decoding",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": null,
+                "homepage": null,
+                "id": 1162571046,
+                "language": "Jupyter Notebook",
+                "license": null,
+                "last_commit": "2026-04-24T06:20:13Z",
+                "open_issues": 0,
+                "owner": "FarahBaracat",
+                "repo": "snn-fingerforce-decoding",
+                "stars": 0,
+                "topics": []
+              },
+              "first_seen": "2026-11-05T13:27:06.858Z"
+            },
+            {
+              "node_type": "item",
+              "title": "Ge²mS-T: Multi-Dimensional Grouping for Ultra-High Energy Efficiency in Spiking Transformer (ACM MM 2026). [paper",
+              "description": "hzc1208/Ge2mST",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": null,
+                "homepage": null,
+                "id": 1323728340,
+                "language": "Python",
+                "license": null,
+                "last_commit": "2026-08-06T10:20:23Z",
+                "open_issues": 0,
+                "owner": "hzc1208",
+                "repo": "Ge2mST",
+                "stars": 0,
+                "topics": []
+              },
+              "first_seen": "2026-11-05T13:27:06.858Z"
+            }
+          ],
+          "description": "Nature, Science\nAAAI, ICLR, ICML, ACM MM",
+          "node_type": "group",
+          "title": "2026"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
               "title": "A multisynaptic spiking neuron for simultaneously encoding spatial and temporal dynamics in spiking neural networks (Nature Communications, 2025). [paper",
               "description": "fanliangwei/Multisynaptic-spiking-neurons",
               "children": [],
@@ -948,7 +1081,7 @@
                 "open_issues": 0,
                 "owner": "pkuxmq",
                 "repo": "HLOP-SNN",
-                "stars": 45,
+                "stars": 44,
                 "topics": []
               },
               "first_seen": "2026-08-28T17:40:30.677Z"
@@ -1596,7 +1729,7 @@
                 "id": 228557692,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-11-04T03:19:31Z",
+                "last_commit": "2026-11-05T13:19:01Z",
                 "open_issues": 126,
                 "owner": "fangwei123456",
                 "repo": "spikingjelly",
@@ -1624,7 +1757,7 @@
                 "id": 228557692,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-11-04T03:19:31Z",
+                "last_commit": "2026-11-05T13:19:01Z",
                 "open_issues": 126,
                 "owner": "fangwei123456",
                 "repo": "spikingjelly",
@@ -2380,7 +2513,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-04T13:13:29.979Z",
+    "last_updated": "2026-11-05T13:27:06.858Z",
     "original_repository_info": {
       "archived": false,
       "description": "A paper list of spiking neural networks, including papers, codes, and related websites.  本仓库收集脉冲神经网络相关的顶会顶刊以及CNS论文和代码，正在持续更新中。",
@@ -2388,7 +2521,7 @@
       "id": 604486210,
       "language": null,
       "license": null,
-      "last_commit": "2026-10-06T13:24:52Z",
+      "last_commit": "2026-11-05T09:56:02Z",
       "open_issues": 3,
       "owner": "TheBrainLab",
       "repo": "Awesome-Spiking-Neural-Networks",
@@ -2414,7 +2547,7 @@
         "spikingjelly"
       ]
     },
-    "original_repository_sha": "3695cf0e3d3d8b87a9468467ea8c2b289e033c0e",
+    "original_repository_sha": "7946a7414b902c26e173d41ab3e1c639eab8b520",
     "enhanced_repository": "enhansome/enhansome-Awesome-Spiking-Neural-Networks",
     "enhanced_repository_description": null,
     "title": "Awesome Spiking Neural Networks with stars"
