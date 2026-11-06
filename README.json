@@ -921,7 +921,7 @@
                 "open_issues": 1,
                 "owner": "BICLab",
                 "repo": "Spike-Driven-Transformer-V2",
-                "stars": 237,
+                "stars": 236,
                 "topics": [
                   "neuromorphic-computing",
                   "neuromorphic-hardware",
@@ -1729,11 +1729,11 @@
                 "id": 228557692,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-11-05T13:19:01Z",
-                "open_issues": 126,
+                "last_commit": "2026-11-06T11:00:41Z",
+                "open_issues": 127,
                 "owner": "fangwei123456",
                 "repo": "spikingjelly",
-                "stars": 2179,
+                "stars": 2180,
                 "topics": [
                   "deep-learning",
                   "dvs",
@@ -1757,11 +1757,11 @@
                 "id": 228557692,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-11-05T13:19:01Z",
-                "open_issues": 126,
+                "last_commit": "2026-11-06T11:00:41Z",
+                "open_issues": 127,
                 "owner": "fangwei123456",
                 "repo": "spikingjelly",
-                "stars": 2179,
+                "stars": 2180,
                 "topics": [
                   "deep-learning",
                   "dvs",
@@ -2513,7 +2513,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-05T13:27:06.858Z",
+    "last_updated": "2026-11-06T13:10:28.652Z",
     "original_repository_info": {
       "archived": false,
       "description": "A paper list of spiking neural networks, including papers, codes, and related websites.  本仓库收集脉冲神经网络相关的顶会顶刊以及CNS论文和代码，正在持续更新中。",
@@ -2525,7 +2525,7 @@
       "open_issues": 3,
       "owner": "TheBrainLab",
       "repo": "Awesome-Spiking-Neural-Networks",
-      "stars": 853,
+      "stars": 854,
       "topics": [
         "3rd-generation-of-artificial-neural-networks",
         "awesome",
