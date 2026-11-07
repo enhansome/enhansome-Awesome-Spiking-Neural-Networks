@@ -1733,7 +1733,7 @@
                 "open_issues": 127,
                 "owner": "fangwei123456",
                 "repo": "spikingjelly",
-                "stars": 2180,
+                "stars": 2181,
                 "topics": [
                   "deep-learning",
                   "dvs",
@@ -1761,7 +1761,7 @@
                 "open_issues": 127,
                 "owner": "fangwei123456",
                 "repo": "spikingjelly",
-                "stars": 2180,
+                "stars": 2181,
                 "topics": [
                   "deep-learning",
                   "dvs",
@@ -2052,7 +2052,7 @@
                 "open_issues": 7,
                 "owner": "TheBrainLab",
                 "repo": "Spikingformer",
-                "stars": 154,
+                "stars": 153,
                 "topics": [
                   "3rd-generation-of-artificial-neural-networks",
                   "binary",
@@ -2513,7 +2513,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-06T13:10:28.652Z",
+    "last_updated": "2026-11-07T11:53:30.772Z",
     "original_repository_info": {
       "archived": false,
       "description": "A paper list of spiking neural networks, including papers, codes, and related websites.  本仓库收集脉冲神经网络相关的顶会顶刊以及CNS论文和代码，正在持续更新中。",
