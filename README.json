@@ -1026,7 +1026,7 @@
             {
               "node_type": "item",
               "title": "Learning a Spiking Neural Network for Efficient Image Deraining (IJCAI 2024). [code",
-              "description": "MingTian99/ESDNet",
+              "description": "MingTian99/ESDNet-IJCAI2024",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1038,7 +1038,7 @@
                 "last_commit": "2025-07-07T03:35:20Z",
                 "open_issues": 9,
                 "owner": "MingTian99",
-                "repo": "ESDNet",
+                "repo": "ESDNet-IJCAI2024",
                 "stars": 79,
                 "topics": []
               },
@@ -1729,11 +1729,11 @@
                 "id": 228557692,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-11-08T09:01:23Z",
+                "last_commit": "2026-11-09T11:38:19Z",
                 "open_issues": 127,
                 "owner": "fangwei123456",
                 "repo": "spikingjelly",
-                "stars": 2182,
+                "stars": 2183,
                 "topics": [
                   "deep-learning",
                   "dvs",
@@ -1757,11 +1757,11 @@
                 "id": 228557692,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-11-08T09:01:23Z",
+                "last_commit": "2026-11-09T11:38:19Z",
                 "open_issues": 127,
                 "owner": "fangwei123456",
                 "repo": "spikingjelly",
-                "stars": 2182,
+                "stars": 2183,
                 "topics": [
                   "deep-learning",
                   "dvs",
@@ -2513,7 +2513,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-08T12:08:00.352Z",
+    "last_updated": "2026-11-09T14:14:51.480Z",
     "original_repository_info": {
       "archived": false,
       "description": "A paper list of spiking neural networks, including papers, codes, and related websites.  本仓库收集脉冲神经网络相关的顶会顶刊以及CNS论文和代码，正在持续更新中。",
