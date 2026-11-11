@@ -897,7 +897,7 @@
                 "open_issues": 11,
                 "owner": "BICLab",
                 "repo": "SpikeYOLO",
-                "stars": 263,
+                "stars": 264,
                 "topics": [
                   "neuromorphic-computing",
                   "spiking-neural-networks"
@@ -1650,7 +1650,7 @@
                 "open_issues": 24,
                 "owner": "ridgerchu",
                 "repo": "matmulfreellm",
-                "stars": 3102,
+                "stars": 3101,
                 "topics": [
                   "large-language-model",
                   "linear-transformer",
@@ -1729,11 +1729,11 @@
                 "id": 228557692,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-11-10T06:41:09Z",
-                "open_issues": 127,
+                "last_commit": "2026-11-10T14:36:22Z",
+                "open_issues": 126,
                 "owner": "fangwei123456",
                 "repo": "spikingjelly",
-                "stars": 2182,
+                "stars": 2184,
                 "topics": [
                   "deep-learning",
                   "dvs",
@@ -1757,11 +1757,11 @@
                 "id": 228557692,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-11-10T06:41:09Z",
-                "open_issues": 127,
+                "last_commit": "2026-11-10T14:36:22Z",
+                "open_issues": 126,
                 "owner": "fangwei123456",
                 "repo": "spikingjelly",
-                "stars": 2182,
+                "stars": 2184,
                 "topics": [
                   "deep-learning",
                   "dvs",
@@ -2513,7 +2513,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-10T13:43:10.125Z",
+    "last_updated": "2026-11-11T12:54:47.092Z",
     "original_repository_info": {
       "archived": false,
       "description": "A paper list of spiking neural networks, including papers, codes, and related websites.  本仓库收集脉冲神经网络相关的顶会顶刊以及CNS论文和代码，正在持续更新中。",
