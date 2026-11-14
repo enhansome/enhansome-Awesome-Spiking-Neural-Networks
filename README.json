@@ -1004,6 +1004,27 @@
             },
             {
               "node_type": "item",
+              "title": "Learning a Spiking Neural Network for Efficient Image Deraining (IJCAI 2024). [code",
+              "description": "MingTian99/ESDNet-IJCAI2024",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "Learning A Spiking Neural Network for Efficient Image Deraining (IJCAI 2024)",
+                "homepage": null,
+                "id": 798455090,
+                "language": "Python",
+                "license": null,
+                "last_commit": "2025-07-07T03:35:20Z",
+                "open_issues": 9,
+                "owner": "MingTian99",
+                "repo": "ESDNet-IJCAI2024",
+                "stars": 80,
+                "topics": []
+              },
+              "first_seen": "2026-08-28T17:40:30.677Z"
+            },
+            {
+              "node_type": "item",
               "title": "SpikingResformer: Bridging ResNet and Vision Transformer in Spiking Neural Networks (CVPR 2024). [paper",
               "description": "xyshi2000/SpikingResformer",
               "children": [],
@@ -1019,27 +1040,6 @@
                 "owner": "xyshi2000",
                 "repo": "SpikingResformer",
                 "stars": 80,
-                "topics": []
-              },
-              "first_seen": "2026-08-28T17:40:30.677Z"
-            },
-            {
-              "node_type": "item",
-              "title": "Learning a Spiking Neural Network for Efficient Image Deraining (IJCAI 2024). [code",
-              "description": "MingTian99/ESDNet-IJCAI2024",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "Learning A Spiking Neural Network for Efficient Image Deraining (IJCAI 2024)",
-                "homepage": null,
-                "id": 798455090,
-                "language": "Python",
-                "license": null,
-                "last_commit": "2025-07-07T03:35:20Z",
-                "open_issues": 9,
-                "owner": "MingTian99",
-                "repo": "ESDNet-IJCAI2024",
-                "stars": 79,
                 "topics": []
               },
               "first_seen": "2026-08-28T17:40:30.677Z"
@@ -1067,6 +1067,27 @@
             },
             {
               "node_type": "item",
+              "title": "Spiking Wavelet Transformer (ECCV 2024). [paper",
+              "description": "bic-L/Spiking-Wavelet-Transformer",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "[ECCV-24] Spiking Wavelet Transformer",
+                "homepage": null,
+                "id": 823643649,
+                "language": "Python",
+                "license": null,
+                "last_commit": "2025-07-13T11:24:59Z",
+                "open_issues": 0,
+                "owner": "bic-L",
+                "repo": "Spiking-Wavelet-Transformer",
+                "stars": 44,
+                "topics": []
+              },
+              "first_seen": "2026-08-28T17:40:30.677Z"
+            },
+            {
+              "node_type": "item",
               "title": "Hebbian Learning based Orthogonal Projection for Continual Learning of Spiking Neural Networks (ICLR 2024). [paper",
               "description": "pkuxmq/HLOP-SNN",
               "children": [],
@@ -1082,27 +1103,6 @@
                 "owner": "pkuxmq",
                 "repo": "HLOP-SNN",
                 "stars": 44,
-                "topics": []
-              },
-              "first_seen": "2026-08-28T17:40:30.677Z"
-            },
-            {
-              "node_type": "item",
-              "title": "Spiking Wavelet Transformer (ECCV 2024). [paper",
-              "description": "bic-L/Spiking-Wavelet-Transformer",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "[ECCV-24] Spiking Wavelet Transformer",
-                "homepage": null,
-                "id": 823643649,
-                "language": "Python",
-                "license": null,
-                "last_commit": "2025-07-13T11:24:59Z",
-                "open_issues": 0,
-                "owner": "bic-L",
-                "repo": "Spiking-Wavelet-Transformer",
-                "stars": 43,
                 "topics": []
               },
               "first_seen": "2026-08-28T17:40:30.677Z"
@@ -1675,7 +1675,7 @@
                 "open_issues": 18,
                 "owner": "ZK-Zhou",
                 "repo": "spikformer",
-                "stars": 419,
+                "stars": 420,
                 "topics": []
               },
               "first_seen": "2026-08-28T17:40:30.677Z"
@@ -1730,7 +1730,7 @@
                 "language": "Python",
                 "license": "Apache-2.0",
                 "last_commit": "2026-11-10T14:36:22Z",
-                "open_issues": 126,
+                "open_issues": 127,
                 "owner": "fangwei123456",
                 "repo": "spikingjelly",
                 "stars": 2186,
@@ -1758,7 +1758,7 @@
                 "language": "Python",
                 "license": "Apache-2.0",
                 "last_commit": "2026-11-10T14:36:22Z",
-                "open_issues": 126,
+                "open_issues": 127,
                 "owner": "fangwei123456",
                 "repo": "spikingjelly",
                 "stars": 2186,
@@ -1789,7 +1789,7 @@
                 "open_issues": 18,
                 "owner": "ZK-Zhou",
                 "repo": "spikformer",
-                "stars": 419,
+                "stars": 420,
                 "topics": []
               },
               "first_seen": "2026-08-28T17:40:30.677Z"
@@ -2513,7 +2513,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-13T13:22:51.169Z",
+    "last_updated": "2026-11-14T12:26:55.677Z",
     "original_repository_info": {
       "archived": false,
       "description": "A paper list of spiking neural networks, including papers, codes, and related websites.  本仓库收集脉冲神经网络相关的顶会顶刊以及CNS论文和代码，正在持续更新中。",
