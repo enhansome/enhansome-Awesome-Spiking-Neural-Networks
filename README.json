@@ -870,7 +870,7 @@
                 "open_issues": 31,
                 "owner": "BrainCog-X",
                 "repo": "Brain-Cog",
-                "stars": 674,
+                "stars": 675,
                 "topics": [
                   "brain-inspired-ai",
                   "brain-inspired-computation",
@@ -2513,7 +2513,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-14T12:26:55.677Z",
+    "last_updated": "2026-11-15T12:55:26.885Z",
     "original_repository_info": {
       "archived": false,
       "description": "A paper list of spiking neural networks, including papers, codes, and related websites.  本仓库收集脉冲神经网络相关的顶会顶刊以及CNS论文和代码，正在持续更新中。",
@@ -2525,7 +2525,7 @@
       "open_issues": 3,
       "owner": "TheBrainLab",
       "repo": "Awesome-Spiking-Neural-Networks",
-      "stars": 854,
+      "stars": 855,
       "topics": [
         "3rd-generation-of-artificial-neural-networks",
         "awesome",
