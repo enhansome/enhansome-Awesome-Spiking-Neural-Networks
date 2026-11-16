@@ -201,7 +201,7 @@
                 "open_issues": 0,
                 "owner": "YinsongYan",
                 "repo": "Rhythm-SNN",
-                "stars": 17,
+                "stars": 18,
                 "topics": []
               },
               "first_seen": "2026-08-28T17:40:30.677Z"
@@ -1729,8 +1729,8 @@
                 "id": 228557692,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-11-10T14:36:22Z",
-                "open_issues": 127,
+                "last_commit": "2026-11-16T02:50:21Z",
+                "open_issues": 126,
                 "owner": "fangwei123456",
                 "repo": "spikingjelly",
                 "stars": 2186,
@@ -1757,8 +1757,8 @@
                 "id": 228557692,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-11-10T14:36:22Z",
-                "open_issues": 127,
+                "last_commit": "2026-11-16T02:50:21Z",
+                "open_issues": 126,
                 "owner": "fangwei123456",
                 "repo": "spikingjelly",
                 "stars": 2186,
@@ -2513,7 +2513,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-15T12:55:26.885Z",
+    "last_updated": "2026-11-16T13:56:16.350Z",
     "original_repository_info": {
       "archived": false,
       "description": "A paper list of spiking neural networks, including papers, codes, and related websites.  本仓库收集脉冲神经网络相关的顶会顶刊以及CNS论文和代码，正在持续更新中。",
@@ -2525,7 +2525,7 @@
       "open_issues": 3,
       "owner": "TheBrainLab",
       "repo": "Awesome-Spiking-Neural-Networks",
-      "stars": 855,
+      "stars": 857,
       "topics": [
         "3rd-generation-of-artificial-neural-networks",
         "awesome",
