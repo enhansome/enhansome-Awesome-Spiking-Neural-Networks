@@ -870,7 +870,7 @@
                 "open_issues": 31,
                 "owner": "BrainCog-X",
                 "repo": "Brain-Cog",
-                "stars": 675,
+                "stars": 676,
                 "topics": [
                   "brain-inspired-ai",
                   "brain-inspired-computation",
@@ -1730,7 +1730,7 @@
                 "language": "Python",
                 "license": "Apache-2.0",
                 "last_commit": "2026-11-16T02:50:21Z",
-                "open_issues": 126,
+                "open_issues": 131,
                 "owner": "fangwei123456",
                 "repo": "spikingjelly",
                 "stars": 2186,
@@ -1758,7 +1758,7 @@
                 "language": "Python",
                 "license": "Apache-2.0",
                 "last_commit": "2026-11-16T02:50:21Z",
-                "open_issues": 126,
+                "open_issues": 131,
                 "owner": "fangwei123456",
                 "repo": "spikingjelly",
                 "stars": 2186,
@@ -1810,7 +1810,7 @@
                 "open_issues": 4,
                 "owner": "BICLab",
                 "repo": "Spike-Driven-Transformer",
-                "stars": 320,
+                "stars": 321,
                 "topics": [
                   "neuromorphic-computing",
                   "spike-driven",
@@ -2052,7 +2052,7 @@
                 "open_issues": 7,
                 "owner": "TheBrainLab",
                 "repo": "Spikingformer",
-                "stars": 154,
+                "stars": 156,
                 "topics": [
                   "3rd-generation-of-artificial-neural-networks",
                   "binary",
@@ -2513,7 +2513,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-16T13:56:16.350Z",
+    "last_updated": "2026-11-17T14:49:27.780Z",
     "original_repository_info": {
       "archived": false,
       "description": "A paper list of spiking neural networks, including papers, codes, and related websites.  本仓库收集脉冲神经网络相关的顶会顶刊以及CNS论文和代码，正在持续更新中。",
@@ -2525,7 +2525,7 @@
       "open_issues": 3,
       "owner": "TheBrainLab",
       "repo": "Awesome-Spiking-Neural-Networks",
-      "stars": 857,
+      "stars": 858,
       "topics": [
         "3rd-generation-of-artificial-neural-networks",
         "awesome",
