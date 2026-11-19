@@ -1220,7 +1220,7 @@
                 "open_issues": 4,
                 "owner": "yfguo91",
                 "repo": "Ternary-Spike",
-                "stars": 31,
+                "stars": 32,
                 "topics": []
               },
               "first_seen": "2026-08-28T17:40:30.677Z"
@@ -1729,8 +1729,8 @@
                 "id": 228557692,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-11-16T02:50:21Z",
-                "open_issues": 131,
+                "last_commit": "2026-11-19T14:02:29Z",
+                "open_issues": 126,
                 "owner": "fangwei123456",
                 "repo": "spikingjelly",
                 "stars": 2187,
@@ -1757,8 +1757,8 @@
                 "id": 228557692,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-11-16T02:50:21Z",
-                "open_issues": 131,
+                "last_commit": "2026-11-19T14:02:29Z",
+                "open_issues": 126,
                 "owner": "fangwei123456",
                 "repo": "spikingjelly",
                 "stars": 2187,
@@ -2513,7 +2513,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-18T14:29:23.073Z",
+    "last_updated": "2026-11-19T14:38:52.053Z",
     "original_repository_info": {
       "archived": false,
       "description": "A paper list of spiking neural networks, including papers, codes, and related websites.  本仓库收集脉冲神经网络相关的顶会顶刊以及CNS论文和代码，正在持续更新中。",
