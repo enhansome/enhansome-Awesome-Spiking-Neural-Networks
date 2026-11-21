@@ -223,7 +223,7 @@ If you own or find some overlooked SNN papers, you can add them to this document
 * EventGPT: Event Stream Understanding with Multimodal Large Language Models (**CVPR 2025**). \[[paper](https://arxiv.org/pdf/2412.00832)]  \[[code](https://github.com/XduSyL/EventGPT) ⭐ 115 | 🐛 16 | 🌐 Python | 📅 2025-07-26]
 * Toward Relative Positional Encoding in Spiking Transformers (**Neurips 2025**). \[[paper](https://openreview.net/pdf?id=MDWJlTWZHH)] \[[code](https://github.com/microsoft/SeqSNN) ⭐ 95 | 🐛 13 | 🌐 Python | 📅 2026-02-08]
 * Brain-like Variational Inference (**Neurips 2025**). \[[paper](https://openreview.net/pdf?id=573IcLusXq)] \[[code](https://github.com/hadivafaii/IterativeVAE) ⭐ 73 | 🐛 0 | 🌐 Jupyter Notebook | 📅 2026-02-09]
-* Spiking Neural Networks Need High-Frequency Information (**Neurips 2025**). \[[paper](https://openreview.net/pdf?id=owNPAl7LNK)] \[[code](https://github.com/bic-L/MaxFormer) ⭐ 64 | 🐛 0 | 🌐 Python | 📅 2026-01-19]
+* Spiking Neural Networks Need High-Frequency Information (**Neurips 2025**). \[[paper](https://openreview.net/pdf?id=owNPAl7LNK)] \[[code](https://github.com/bic-L/MaxFormer) ⭐ 65 | 🐛 0 | 🌐 Python | 📅 2026-01-19]
 * FSTA-SNN: Frequency-based Spatial-Temporal Attention Module for Spiking Neural Networks (**AAAI 2025**).\[[paper](https://arxiv.org/pdf/2501.14744)] \[[code](https://github.com/yukairong/FSTA-SNN) ⭐ 56 | 🐛 1 | 🌐 Python | 📅 2025-02-17]
 * Efficient Spike-driven Transformer For High-performance Image Segmentation (**AAAI 2025**).\[[paper](https://arxiv.org/pdf/2412.14587)] \[[code](https://github.com/BICLab/Spike2Former) ⭐ 45 | 🐛 1 | 🌐 Python | 📅 2026-10-10]
 * Efficient 3D Recognition with Event-driven Spike Sparse Convolution (**AAAI 2025**).\[[paper](https://arxiv.org/pdf/2412.07360)] \[[code](https://github.com/bollossom/e-3dsnn) ⭐ 29 | 🐛 1 | 🌐 Python | 📅 2025-07-07]
@@ -445,8 +445,8 @@ If you own or find some overlooked SNN papers, you can add them to this document
 
 **AAAI, ICLR, CVPR, ICML, IJCAI, ICCV, NeurIPS, TPAMI, Science Advances**
 
-* SpikingJelly: An open-source machine learning infrastructure platform for spike-based intelligence (**Science Advances 2023**). \[[paper](https://www.science.org/doi/10.1126/sciadv.adi1480)] \[[code](https://github.com/fangwei123456/spikingjelly) ⭐ 2,187 | 🐛 128 | 🌐 Python | 📅 2026-11-19]
-* Attention Spiking Neural Networks  (**TPAMI 2023**) .\[[paper](https://ieeexplore.ieee.org/abstract/document/10032591)] \[[code](https://github.com/fangwei123456/spikingjelly/pull/329) ⭐ 2,187 | 🐛 128 | 🌐 Python | 📅 2026-11-19]
+* SpikingJelly: An open-source machine learning infrastructure platform for spike-based intelligence (**Science Advances 2023**). \[[paper](https://www.science.org/doi/10.1126/sciadv.adi1480)] \[[code](https://github.com/fangwei123456/spikingjelly) ⭐ 2,188 | 🐛 131 | 🌐 Python | 📅 2026-11-21]
+* Attention Spiking Neural Networks  (**TPAMI 2023**) .\[[paper](https://ieeexplore.ieee.org/abstract/document/10032591)] \[[code](https://github.com/fangwei123456/spikingjelly/pull/329) ⭐ 2,188 | 🐛 131 | 🌐 Python | 📅 2026-11-21]
 * Spikformer: When Spiking Neural Network Meets Transformer (**ICLR 2023**) .\[[paper](https://openreview.net/forum?id=frE4fUwz_h)] \[[code](https://github.com/ZK-Zhou/spikformer) ⭐ 420 | 🐛 18 | 🌐 Python | 📅 2024-01-23]
 * Spike-driven Transformer \[[paper](https://arxiv.org/pdf/2307.01694.pdf)] \[[code](https://github.com/BICLab/Spike-Driven-Transformer) ⭐ 321 | 🐛 4 | 🌐 Python | 📅 2024-03-18]
 * Scaling Up Dynamic Graph Representation Learning via Spiking Neural Networks(**AAAI 2023**). \[[paper](https://arxiv.org/pdf/2208.10364.pdf)] \[[code](https://github.com/EdisonLeeeee/SpikeNet) ⭐ 79 | 🐛 1 | 🌐 Python | 📅 2023-09-27]
@@ -558,4 +558,4 @@ If you find this repo useful, please consider citing:
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-20._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-21._
