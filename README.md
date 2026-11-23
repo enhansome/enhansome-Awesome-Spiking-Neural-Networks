@@ -228,7 +228,7 @@ If you own or find some overlooked SNN papers, you can add them to this document
 * Efficient Spike-driven Transformer For High-performance Image Segmentation (**AAAI 2025**).\[[paper](https://arxiv.org/pdf/2412.14587)] \[[code](https://github.com/BICLab/Spike2Former) ⭐ 45 | 🐛 1 | 🌐 Python | 📅 2026-10-10]
 * Efficient 3D Recognition with Event-driven Spike Sparse Convolution (**AAAI 2025**).\[[paper](https://arxiv.org/pdf/2412.07360)] \[[code](https://github.com/bollossom/e-3dsnn) ⭐ 29 | 🐛 1 | 🌐 Python | 📅 2025-07-07]
 * Spiking Meets Attention: Efficient Remote Sensing Image Super-Resolution with Attention Spiking Neural Networks (**Neurips 2025**). \[[paper](https://openreview.net/pdf?id=VaE33hkqmg)] \[[code](https://github.com/XY-boy/SpikeSR) ⭐ 27 | 🐛 2 | 🌐 Python | 📅 2026-07-11]
-* SpikingSSMs: Learning Long Sequences with Sparse and Parallel Spiking State Space Models (**AAAI 2025**). \[[paper](https://arxiv.org/pdf/2408.14909)]\[[code](https://github.com/shenshuaijie/SDN) ⭐ 25 | 🐛 0 | 🌐 Python | 📅 2026-03-25]
+* SpikingSSMs: Learning Long Sequences with Sparse and Parallel Spiking State Space Models (**AAAI 2025**). \[[paper](https://arxiv.org/pdf/2408.14909)]\[[code](https://github.com/shenshuaijie/SDN) ⭐ 26 | 🐛 0 | 🌐 Python | 📅 2026-03-25]
 * Fully Spiking Neural Networks for Unified Frame-Event Object Tracking (**Neurips 2025**). \[[paper](https://openreview.net/pdf?id=FooiwsnEH9)] \[[code](https://github.com/Noctis-A/SpikeFET) ⭐ 21 | 🐛 0 | 🌐 Python | 📅 2026-05-08]
 * Unveiling the Spatial-temporal Effective Receptive Fields of Spiking Neural Networks (**Neurips 2025**). \[[paper](https://openreview.net/pdf?id=tYnJC5ba6j)] \[[code](https://github.com/EricZhang1412/Spatial-temporal-ERF) ⭐ 17 | 🐛 0 | 🌐 Python | 📅 2026-07-30]
 * Rethinking High-speed Image Reconstruction Framework with Spike Camera (**AAAI 2025**). \[[paper](https://arxiv.org/pdf/2501.04477)] \[[code](https://github.com/chenkang455/SpikeCLIP) ⭐ 14 | 🐛 2 | 🌐 Python | 📅 2025-01-09]
@@ -374,7 +374,7 @@ If you own or find some overlooked SNN papers, you can add them to this document
 * Can we get the best of both Binary Neural Networks and Spiking Neural Networks for Efficient Computer Vision? (**ICLR 2024**). \[[paper](https://openreview.net/pdf?id=lGUyAuuTYZ)] \[[code](https://github.com/godatta/Ultra-Low-Latency-SNN) ⭐ 9 | 🐛 0 | 🌐 Python | 📅 2024-03-29]
 * FEEL-SNN: Robust Spiking Neural Networks with Frequency Encoding and Evolutionary Leak Factor (**NeurIPS 2024**). \[[paper](https://openreview.net/pdf?id=TuCQdBo4NC)] \[[code](https://github.com/zju-bmi-lab/FEEL_SNN) ⭐ 8 | 🐛 1 | 🌐 Python | 📅 2024-10-28]
 * Long-Range Feedback Spiking Network Captures Dynamic and Static Representations of the Visual Cortex under Movie Stimuli (**NeurIPS 2024**). \[[paper](https://openreview.net/pdf?id=bxDok3uaK6)] \[[code](https://github.com/Grasshlw/SNN-Neural-Similarity-Movie) ⭐ 7 | 🐛 0 | 🌐 Python | 📅 2026-01-13]
-* Spiking Token Mixer: A event-driven friendly Former structure for spiking neural networks (**NeurIPS 2024**). \[[paper](https://openreview.net/pdf?id=iYcY7KAkSy)] \[[code](https://github.com/brain-intelligence-lab/STMixer_demo) ⭐ 7 | 🐛 0 | 🌐 Python | 📅 2025-07-16]
+* Spiking Token Mixer: A event-driven friendly Former structure for spiking neural networks (**NeurIPS 2024**). \[[paper](https://openreview.net/pdf?id=iYcY7KAkSy)] \[[code](https://github.com/brain-intelligence-lab/STMixer_demo) ⭐ 7 | 🐛 1 | 🌐 Python | 📅 2025-07-16]
 * SpGesture: Source-Free Domain-adaptive sEMG-based Gesture Recognition with Jaccard Attentive Spiking Neural Network (**NeurIPS 2024**). \[[paper](https://arxiv.org/abs/2405.14398)] \[[code](https://github.com/guoweiyu/SpGesture/) ⭐ 7 | 🐛 0 | 📅 2024-10-27]
 * Threaten Spiking Neural Networks through Combining Rate and Temporal Information (**ICLR 2024**). \[[paper](https://openreview.net/pdf?id=xv8iGxENyI)] \[[code](https://github.com/hzc1208/HART_Attack) ⭐ 6 | 🐛 0 | 🌐 Python | 📅 2024-05-05]
 * A Progressive Training Framework for Spiking Neural Networks with Learnable Multi-hierarchical Model (**ICLR 2024**). \[[paper](https://openreview.net/pdf?id=g52tgL8jy6)] \[[code](https://github.com/hzc1208/STBP_LMH) ⭐ 4 | 🐛 0 | 🌐 Python | 📅 2024-05-05]
@@ -445,8 +445,8 @@ If you own or find some overlooked SNN papers, you can add them to this document
 
 **AAAI, ICLR, CVPR, ICML, IJCAI, ICCV, NeurIPS, TPAMI, Science Advances**
 
-* SpikingJelly: An open-source machine learning infrastructure platform for spike-based intelligence (**Science Advances 2023**). \[[paper](https://www.science.org/doi/10.1126/sciadv.adi1480)] \[[code](https://github.com/fangwei123456/spikingjelly) ⭐ 2,188 | 🐛 128 | 🌐 Python | 📅 2026-11-22]
-* Attention Spiking Neural Networks  (**TPAMI 2023**) .\[[paper](https://ieeexplore.ieee.org/abstract/document/10032591)] \[[code](https://github.com/fangwei123456/spikingjelly/pull/329) ⭐ 2,188 | 🐛 128 | 🌐 Python | 📅 2026-11-22]
+* SpikingJelly: An open-source machine learning infrastructure platform for spike-based intelligence (**Science Advances 2023**). \[[paper](https://www.science.org/doi/10.1126/sciadv.adi1480)] \[[code](https://github.com/fangwei123456/spikingjelly) ⭐ 2,187 | 🐛 127 | 🌐 Python | 📅 2026-11-23]
+* Attention Spiking Neural Networks  (**TPAMI 2023**) .\[[paper](https://ieeexplore.ieee.org/abstract/document/10032591)] \[[code](https://github.com/fangwei123456/spikingjelly/pull/329) ⭐ 2,187 | 🐛 127 | 🌐 Python | 📅 2026-11-23]
 * Spikformer: When Spiking Neural Network Meets Transformer (**ICLR 2023**) .\[[paper](https://openreview.net/forum?id=frE4fUwz_h)] \[[code](https://github.com/ZK-Zhou/spikformer) ⭐ 421 | 🐛 18 | 🌐 Python | 📅 2024-01-23]
 * Spike-driven Transformer \[[paper](https://arxiv.org/pdf/2307.01694.pdf)] \[[code](https://github.com/BICLab/Spike-Driven-Transformer) ⭐ 321 | 🐛 4 | 🌐 Python | 📅 2024-03-18]
 * Scaling Up Dynamic Graph Representation Learning via Spiking Neural Networks(**AAAI 2023**). \[[paper](https://arxiv.org/pdf/2208.10364.pdf)] \[[code](https://github.com/EdisonLeeeee/SpikeNet) ⭐ 79 | 🐛 1 | 🌐 Python | 📅 2023-09-27]
@@ -558,4 +558,4 @@ If you find this repo useful, please consider citing:
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-22._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-23._
