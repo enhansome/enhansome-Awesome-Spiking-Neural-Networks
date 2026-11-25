@@ -21,7 +21,7 @@
                 "open_issues": 0,
                 "owner": "sunpengfei1122",
                 "repo": "Dual_memory_pathways",
-                "stars": 18,
+                "stars": 19,
                 "topics": []
               },
               "first_seen": "2026-11-05T13:27:06.858Z"
@@ -390,7 +390,7 @@
                 "open_issues": 0,
                 "owner": "bic-L",
                 "repo": "MaxFormer",
-                "stars": 65,
+                "stars": 66,
                 "topics": [
                   "spiking-neural-networks",
                   "spiking-transformer",
@@ -618,27 +618,6 @@
             },
             {
               "node_type": "item",
-              "title": "S$^2$M-Former: Spiking Symmetric Mixing Branchformer for Brain Auditory Attention Detection (Neurips 2025). [paper",
-              "description": "JackieWang9811/S2M-Former",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "[NeurIPS 2025] S²M-Former: Spiking Symmetric Mixing Branchformer for Brain Auditory Attention Detection",
-                "homepage": null,
-                "id": 1062263003,
-                "language": "Python",
-                "license": null,
-                "last_commit": "2026-05-06T04:17:51Z",
-                "open_issues": 1,
-                "owner": "JackieWang9811",
-                "repo": "S2M-Former",
-                "stars": 8,
-                "topics": []
-              },
-              "first_seen": "2026-08-28T17:40:30.677Z"
-            },
-            {
-              "node_type": "item",
               "title": "HetSyn: Versatile Timescale Integration in Spiking Neural Networks via Heterogeneous Synapses (Neurips 2025). [paper",
               "description": "dzcgood/HetSyn",
               "children": [],
@@ -653,6 +632,27 @@
                 "open_issues": 0,
                 "owner": "dzcgood",
                 "repo": "HetSyn",
+                "stars": 9,
+                "topics": []
+              },
+              "first_seen": "2026-08-28T17:40:30.677Z"
+            },
+            {
+              "node_type": "item",
+              "title": "S$^2$M-Former: Spiking Symmetric Mixing Branchformer for Brain Auditory Attention Detection (Neurips 2025). [paper",
+              "description": "JackieWang9811/S2M-Former",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "[NeurIPS 2025] S²M-Former: Spiking Symmetric Mixing Branchformer for Brain Auditory Attention Detection",
+                "homepage": null,
+                "id": 1062263003,
+                "language": "Python",
+                "license": null,
+                "last_commit": "2026-05-06T04:17:51Z",
+                "open_issues": 1,
+                "owner": "JackieWang9811",
+                "repo": "S2M-Former",
                 "stars": 8,
                 "topics": []
               },
@@ -897,7 +897,7 @@
                 "open_issues": 11,
                 "owner": "BICLab",
                 "repo": "SpikeYOLO",
-                "stars": 264,
+                "stars": 265,
                 "topics": [
                   "neuromorphic-computing",
                   "spiking-neural-networks"
@@ -1730,7 +1730,7 @@
                 "language": "Python",
                 "license": "Apache-2.0",
                 "last_commit": "2026-11-23T07:50:34Z",
-                "open_issues": 127,
+                "open_issues": 129,
                 "owner": "fangwei123456",
                 "repo": "spikingjelly",
                 "stars": 2188,
@@ -1758,7 +1758,7 @@
                 "language": "Python",
                 "license": "Apache-2.0",
                 "last_commit": "2026-11-23T07:50:34Z",
-                "open_issues": 127,
+                "open_issues": 129,
                 "owner": "fangwei123456",
                 "repo": "spikingjelly",
                 "stars": 2188,
@@ -2513,7 +2513,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-24T16:15:06.229Z",
+    "last_updated": "2026-11-25T15:58:30.543Z",
     "original_repository_info": {
       "archived": false,
       "description": "A paper list of spiking neural networks, including papers, codes, and related websites.  本仓库收集脉冲神经网络相关的顶会顶刊以及CNS论文和代码，正在持续更新中。",
