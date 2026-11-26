@@ -154,7 +154,7 @@
                 "open_issues": 1,
                 "owner": "fanliangwei",
                 "repo": "Multisynaptic-spiking-neurons",
-                "stars": 39,
+                "stars": 38,
                 "topics": []
               },
               "first_seen": "2026-08-28T17:40:30.677Z"
@@ -897,7 +897,7 @@
                 "open_issues": 11,
                 "owner": "BICLab",
                 "repo": "SpikeYOLO",
-                "stars": 265,
+                "stars": 264,
                 "topics": [
                   "neuromorphic-computing",
                   "spiking-neural-networks"
@@ -1123,7 +1123,7 @@
                 "open_issues": 0,
                 "owner": "Windere",
                 "repo": "EAS-SNN",
-                "stars": 42,
+                "stars": 41,
                 "topics": [
                   "adaptive-learning",
                   "event-based-detection",
@@ -1675,7 +1675,7 @@
                 "open_issues": 18,
                 "owner": "ZK-Zhou",
                 "repo": "spikformer",
-                "stars": 421,
+                "stars": 422,
                 "topics": []
               },
               "first_seen": "2026-08-28T17:40:30.677Z"
@@ -1729,11 +1729,11 @@
                 "id": 228557692,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-11-23T07:50:34Z",
+                "last_commit": "2026-11-26T13:17:04Z",
                 "open_issues": 129,
                 "owner": "fangwei123456",
                 "repo": "spikingjelly",
-                "stars": 2188,
+                "stars": 2189,
                 "topics": [
                   "deep-learning",
                   "dvs",
@@ -1757,11 +1757,11 @@
                 "id": 228557692,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-11-23T07:50:34Z",
+                "last_commit": "2026-11-26T13:17:04Z",
                 "open_issues": 129,
                 "owner": "fangwei123456",
                 "repo": "spikingjelly",
-                "stars": 2188,
+                "stars": 2189,
                 "topics": [
                   "deep-learning",
                   "dvs",
@@ -1789,7 +1789,7 @@
                 "open_issues": 18,
                 "owner": "ZK-Zhou",
                 "repo": "spikformer",
-                "stars": 421,
+                "stars": 422,
                 "topics": []
               },
               "first_seen": "2026-08-28T17:40:30.677Z"
@@ -2513,7 +2513,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-25T15:58:30.543Z",
+    "last_updated": "2026-11-26T15:40:45.189Z",
     "original_repository_info": {
       "archived": false,
       "description": "A paper list of spiking neural networks, including papers, codes, and related websites.  本仓库收集脉冲神经网络相关的顶会顶刊以及CNS论文和代码，正在持续更新中。",
