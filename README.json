@@ -308,7 +308,7 @@
                 "language": "Python",
                 "license": null,
                 "last_commit": "2025-07-26T09:58:47Z",
-                "open_issues": 16,
+                "open_issues": 17,
                 "owner": "XduSyL",
                 "repo": "EventGPT",
                 "stars": 115,
@@ -870,7 +870,7 @@
                 "open_issues": 31,
                 "owner": "BrainCog-X",
                 "repo": "Brain-Cog",
-                "stars": 676,
+                "stars": 678,
                 "topics": [
                   "brain-inspired-ai",
                   "brain-inspired-computation",
@@ -1729,8 +1729,8 @@
                 "id": 228557692,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-11-26T13:17:04Z",
-                "open_issues": 129,
+                "last_commit": "2026-11-27T09:38:42Z",
+                "open_issues": 128,
                 "owner": "fangwei123456",
                 "repo": "spikingjelly",
                 "stars": 2189,
@@ -1757,8 +1757,8 @@
                 "id": 228557692,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-11-26T13:17:04Z",
-                "open_issues": 129,
+                "last_commit": "2026-11-27T09:38:42Z",
+                "open_issues": 128,
                 "owner": "fangwei123456",
                 "repo": "spikingjelly",
                 "stars": 2189,
@@ -2513,7 +2513,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-26T15:40:45.189Z",
+    "last_updated": "2026-11-27T15:29:48.618Z",
     "original_repository_info": {
       "archived": false,
       "description": "A paper list of spiking neural networks, including papers, codes, and related websites.  本仓库收集脉冲神经网络相关的顶会顶刊以及CNS论文和代码，正在持续更新中。",
@@ -2525,7 +2525,7 @@
       "open_issues": 3,
       "owner": "TheBrainLab",
       "repo": "Awesome-Spiking-Neural-Networks",
-      "stars": 861,
+      "stars": 862,
       "topics": [
         "3rd-generation-of-artificial-neural-networks",
         "awesome",
