@@ -311,7 +311,7 @@
                 "open_issues": 17,
                 "owner": "XduSyL",
                 "repo": "EventGPT",
-                "stars": 115,
+                "stars": 116,
                 "topics": [
                   "chatbot",
                   "event-language",
@@ -870,7 +870,7 @@
                 "open_issues": 31,
                 "owner": "BrainCog-X",
                 "repo": "Brain-Cog",
-                "stars": 678,
+                "stars": 679,
                 "topics": [
                   "brain-inspired-ai",
                   "brain-inspired-computation",
@@ -1730,7 +1730,7 @@
                 "language": "Python",
                 "license": "Apache-2.0",
                 "last_commit": "2026-11-27T09:38:42Z",
-                "open_issues": 128,
+                "open_issues": 131,
                 "owner": "fangwei123456",
                 "repo": "spikingjelly",
                 "stars": 2189,
@@ -1758,7 +1758,7 @@
                 "language": "Python",
                 "license": "Apache-2.0",
                 "last_commit": "2026-11-27T09:38:42Z",
-                "open_issues": 128,
+                "open_issues": 131,
                 "owner": "fangwei123456",
                 "repo": "spikingjelly",
                 "stars": 2189,
@@ -2513,7 +2513,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-27T15:29:48.618Z",
+    "last_updated": "2026-11-28T14:27:50.241Z",
     "original_repository_info": {
       "archived": false,
       "description": "A paper list of spiking neural networks, including papers, codes, and related websites.  本仓库收集脉冲神经网络相关的顶会顶刊以及CNS论文和代码，正在持续更新中。",
